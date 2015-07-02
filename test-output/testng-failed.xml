@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [EtiamHomePageTesting]">
+  <test name="LeftPanelTest(failed)">
+    <classes>
+      <class name="com.etiam.testcase.LeftPanel">
+        <methods>
+          <include name="test_PrinciplesOfCRM"/>
+          <include name="suitClose"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.etiam.testcase.LeftPanel -->
+    </classes>
+  </test> <!-- LeftPanelTest(failed) -->
+</suite> <!-- Failed suite [EtiamHomePageTesting] -->

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="EtiamHomePageTesting" duration-ms="61200" started-at="2015-07-02T09:10:34Z" finished-at="2015-07-02T09:11:35Z">
+    <groups>
+    </groups>
+    <test name="HeaderTest" duration-ms="6921" started-at="2015-07-02T09:10:34Z" finished-at="2015-07-02T09:10:41Z">
+      <class name="com.etiam.testcase.Header_hstrip">
+        <test-method status="PASS" signature="test_DownloadPDF()[pri:0, instance:com.etiam.testcase.Header_hstrip@75baf976]" name="test_DownloadPDF" duration-ms="1200" started-at="2015-07-02T11:10:34Z" finished-at="2015-07-02T11:10:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DownloadPDF -->
+        <test-method status="PASS" signature="test_ExitCourseButton()[pri:0, instance:com.etiam.testcase.Header_hstrip@75baf976]" name="test_ExitCourseButton" duration-ms="4306" started-at="2015-07-02T11:10:35Z" finished-at="2015-07-02T11:10:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ExitCourseButton -->
+        <test-method status="PASS" signature="test_GlossaryLink()[pri:0, instance:com.etiam.testcase.Header_hstrip@75baf976]" name="test_GlossaryLink" duration-ms="735" started-at="2015-07-02T11:10:39Z" finished-at="2015-07-02T11:10:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_GlossaryLink -->
+        <test-method status="PASS" signature="test_HelpLink()[pri:0, instance:com.etiam.testcase.Header_hstrip@75baf976]" name="test_HelpLink" duration-ms="675" started-at="2015-07-02T11:10:40Z" finished-at="2015-07-02T11:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HelpLink -->
+      </class> <!-- com.etiam.testcase.Header_hstrip -->
+    </test> <!-- HeaderTest -->
+    <test name="TitleTest" duration-ms="500" started-at="2015-07-02T09:10:41Z" finished-at="2015-07-02T09:10:41Z">
+      <class name="com.etiam.testcase.Header_title">
+        <test-method status="PASS" signature="test_Logo()[pri:0, instance:com.etiam.testcase.Header_title@28864ae7]" name="test_Logo" duration-ms="105" started-at="2015-07-02T11:10:41Z" finished-at="2015-07-02T11:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Logo -->
+        <test-method status="PASS" signature="test_Title()[pri:0, instance:com.etiam.testcase.Header_title@28864ae7]" name="test_Title" duration-ms="395" started-at="2015-07-02T11:10:41Z" finished-at="2015-07-02T11:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Title -->
+      </class> <!-- com.etiam.testcase.Header_title -->
+    </test> <!-- TitleTest -->
+    <test name="FooterTest" duration-ms="6671" started-at="2015-07-02T09:10:42Z" finished-at="2015-07-02T09:10:48Z">
+      <class name="com.etiam.testcase.Footer">
+        <test-method status="PASS" signature="test_NextPageButton()[pri:0, instance:com.etiam.testcase.Footer@29a3139]" name="test_NextPageButton" duration-ms="2991" started-at="2015-07-02T11:10:42Z" finished-at="2015-07-02T11:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_NextPageButton -->
+        <test-method status="PASS" signature="test_PreviousPageButton()[pri:0, instance:com.etiam.testcase.Footer@29a3139]" name="test_PreviousPageButton" duration-ms="3060" started-at="2015-07-02T11:10:45Z" finished-at="2015-07-02T11:10:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_PreviousPageButton -->
+        <test-method status="PASS" signature="test_RefreshPageButton()[pri:0, instance:com.etiam.testcase.Footer@29a3139]" name="test_RefreshPageButton" duration-ms="620" started-at="2015-07-02T11:10:48Z" finished-at="2015-07-02T11:10:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_RefreshPageButton -->
+      </class> <!-- com.etiam.testcase.Footer -->
+    </test> <!-- FooterTest -->
+    <test name="LeftPanelTest" duration-ms="44778" started-at="2015-07-02T09:10:48Z" finished-at="2015-07-02T09:11:33Z">
+      <class name="com.etiam.testcase.LeftPanel">
+        <test-method status="PASS" signature="test_CapabilitiesOfCRM()[pri:0, instance:com.etiam.testcase.LeftPanel@3dac8e4a]" name="test_CapabilitiesOfCRM" duration-ms="9036" started-at="2015-07-02T11:10:48Z" finished-at="2015-07-02T11:10:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_CapabilitiesOfCRM -->
+        <test-method status="PASS" signature="test_FrontEndAndBackendFunctions()[pri:0, instance:com.etiam.testcase.LeftPanel@3dac8e4a]" name="test_FrontEndAndBackendFunctions" duration-ms="4841" started-at="2015-07-02T11:10:57Z" finished-at="2015-07-02T11:11:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_FrontEndAndBackendFunctions -->
+        <test-method status="PASS" signature="test_PrinciplesOfCRM()[pri:0, instance:com.etiam.testcase.LeftPanel@3dac8e4a]" name="test_PrinciplesOfCRM" duration-ms="4746" started-at="2015-07-02T11:11:02Z" finished-at="2015-07-02T11:11:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_PrinciplesOfCRM -->
+        <test-method status="PASS" signature="test_eTOMAssessment1()[pri:0, instance:com.etiam.testcase.LeftPanel@3dac8e4a]" name="test_eTOMAssessment1" duration-ms="19429" started-at="2015-07-02T11:11:07Z" finished-at="2015-07-02T11:11:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_eTOMAssessment1 -->
+        <test-method status="PASS" signature="test_eTOMAssessment2()[pri:0, instance:com.etiam.testcase.LeftPanel@3dac8e4a]" name="test_eTOMAssessment2" duration-ms="6726" started-at="2015-07-02T11:11:26Z" finished-at="2015-07-02T11:11:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_eTOMAssessment2 -->
+      </class> <!-- com.etiam.testcase.LeftPanel -->
+    </test> <!-- LeftPanelTest -->
+    <test name="HoverTest" duration-ms="490" started-at="2015-07-02T09:11:33Z" finished-at="2015-07-02T09:11:34Z">
+      <class name="com.etiam.testcase.Hover">
+        <test-method status="PASS" signature="testHover()[pri:0, instance:com.etiam.testcase.Hover@b856c2c]" name="testHover" duration-ms="490" started-at="2015-07-02T11:11:33Z" finished-at="2015-07-02T11:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHover -->
+      </class> <!-- com.etiam.testcase.Hover -->
+    </test> <!-- HoverTest -->
+    <test name="CSSValidation" duration-ms="1630" started-at="2015-07-02T09:11:34Z" finished-at="2015-07-02T09:11:35Z">
+      <class name="com.etiam.testcase.CSSValidation">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.etiam.testcase.CSSValidation@10e76514]" name="init" is-config="true" duration-ms="24238" started-at="2015-07-02T11:10:10Z" finished-at="2015-07-02T11:10:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="test_checkUncheckLeftPanel()[pri:0, instance:com.etiam.testcase.CSSValidation@10e76514]" name="test_checkUncheckLeftPanel" duration-ms="1630" started-at="2015-07-02T11:11:34Z" finished-at="2015-07-02T11:11:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_checkUncheckLeftPanel -->
+        <test-method status="PASS" signature="suitClose()[pri:0, instance:com.etiam.testcase.CSSValidation@10e76514]" name="suitClose" is-config="true" duration-ms="3331" started-at="2015-07-02T11:11:35Z" finished-at="2015-07-02T11:11:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suitClose -->
+      </class> <!-- com.etiam.testcase.CSSValidation -->
+    </test> <!-- CSSValidation -->
+  </suite> <!-- EtiamHomePageTesting -->
+</testng-results>

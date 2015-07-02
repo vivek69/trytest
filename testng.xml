@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="EtiamHomePageTesting">
+  
+<test name="HeaderTest">
+    <classes>
+        <class name="com.etiam.testcase.Header_hstrip" ></class>  
+    </classes>
+</test>
+
+<test name="TitleTest">
+    <classes>
+        <class name="com.etiam.testcase.Header_title" ></class>  
+    </classes>
+</test>
+ 
+<test name="FooterTest">
+    <classes>
+        <class name="com.etiam.testcase.Footer" ></class>  
+    </classes>
+</test>  
+
+<test name="LeftPanelTest">
+    <classes>
+        <class name="com.etiam.testcase.LeftPanel" ></class>  
+    </classes>
+</test> 
+
+<test name="HoverTest">
+    <classes>
+        <class name="com.etiam.testcase.Hover" ></class>  
+    </classes>
+</test>
+
+<test name="CSSValidation">
+    <classes>
+        <class name="com.etiam.testcase.CSSValidation" ></class>  
+    </classes>
+</test>
+
+</suite>

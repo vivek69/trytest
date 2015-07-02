@@ -1,0 +1,1373 @@
+2015-05-22 08:49:13,471 INFO  [Log] **************************************************************************************** 
+2015-05-22 08:49:13,471 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-05-22 08:49:13,471 INFO  [Log] **************************************************************************************** 
+2015-05-22 08:49:13,471 INFO  [Log] Loading config properties file 
+2015-05-22 08:49:13,471 INFO  [Log] New driver instantiated 
+2015-05-22 08:49:24,222 INFO  [Log] Launching Browser 
+2015-05-22 08:49:24,222 INFO  [Log] Opening URL 
+2015-05-22 08:49:28,590 INFO  [Log] Maximizing Browser 
+2015-05-22 08:49:29,541 INFO  [Log] --------------test_DownloadPDF START------------------ 
+2015-05-22 08:49:29,541 INFO  [Log] test_DownloadPDF: DownloadPDF 
+2015-05-22 08:49:29,713 INFO  [Log] test_DownloadPDF: Working Fine 
+2015-05-22 08:49:30,243 INFO  [Log] --------------test_DownloadPDF DONE------------------ 
+2015-05-22 08:49:30,243 INFO  [Log] --------------test_ExitCourseButton START------------------ 
+2015-05-22 08:49:30,243 INFO  [Log] test_ExitCourseButton: Test Close button 
+2015-05-22 08:49:32,312 INFO  [Log] test_ExitCourseButton: Close working Fine 
+2015-05-22 08:49:32,312 INFO  [Log] --------------test_ExitCourseButton DONE------------------ 
+2015-05-22 08:49:32,313 INFO  [Log] --------------test_GlossaryLink START------------------ 
+2015-05-22 08:49:32,313 INFO  [Log] test_GlossaryLink: Test Glossary 
+2015-05-22 08:49:32,881 INFO  [Log] test_GlossaryLink: Glossary is working fine 
+2015-05-22 08:49:32,935 INFO  [Log] --------------test_GlossaryLink DONE------------------ 
+2015-05-22 08:49:32,936 INFO  [Log] --------------test_HelpLink START------------------ 
+2015-05-22 08:49:32,936 INFO  [Log] test_HelpLink: Test Help button 
+2015-05-22 08:49:33,527 INFO  [Log] test_HelpLink: Help working fine 
+2015-05-22 08:49:33,567 INFO  [Log] --------------test_HelpLink DONE------------------ 
+2015-05-22 08:49:33,579 INFO  [Log] --------------test_Logo START------------------ 
+2015-05-22 08:49:33,579 INFO  [Log] test_Logo: Test Logo 
+2015-05-22 08:49:33,591 INFO  [Log] test_Logo: Logo Present 
+2015-05-22 08:49:33,636 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-05-22 08:49:33,637 INFO  [Log] --------------test_Title START------------------ 
+2015-05-22 08:49:33,637 INFO  [Log] test_Title: Test Title 
+2015-05-22 08:49:33,967 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-05-22 08:49:34,041 INFO  [Log] --------------test_Title DONE------------------ 
+2015-05-22 08:49:34,045 INFO  [Log] --------------test_NextPageButton START------------------ 
+2015-05-22 08:49:34,045 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 08:49:34,091 INFO  [Log] test_PreviousPageButton: Element Present 
+2015-05-22 08:49:34,308 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 08:49:34,542 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 08:49:34,774 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 08:49:34,997 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 08:49:35,168 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 08:49:35,393 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 08:49:35,617 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 08:49:35,839 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 08:49:36,064 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 08:49:36,288 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 08:49:36,496 INFO  [Log] --------------test_NextPageButton DONE------------------ 
+2015-05-22 08:49:36,497 INFO  [Log] --------------test_PreviousPageButton START------------------ 
+2015-05-22 08:49:36,592 INFO  [Log] test_PreviousPageButton: Element present 
+2015-05-22 08:49:36,592 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 08:49:36,799 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 08:49:37,021 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 08:49:37,244 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 08:49:37,469 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 08:49:37,694 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 08:49:37,916 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 08:49:38,139 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 08:49:38,363 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 08:49:38,585 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 08:49:38,808 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 08:49:39,015 INFO  [Log] --------------test_PreviousPageButton DONE------------------ 
+2015-05-22 08:49:39,016 INFO  [Log] --------------test_RefreshPageButton START------------------ 
+2015-05-22 08:49:39,161 INFO  [Log] test_RefreshPageButton: Element present 
+2015-05-22 08:49:39,161 INFO  [Log] test_RefreshPageButton: Clicking Refresh Button 
+2015-05-22 08:49:39,398 INFO  [Log] test_RefreshPageButton: Page Refreshed  
+2015-05-22 08:49:39,398 INFO  [Log] --------------test_RefreshPageButton DONE------------------ 
+2015-05-22 08:49:39,402 INFO  [Log] --------------test_CapabilitiesOfCRM START------------------ 
+2015-05-22 08:49:39,402 INFO  [Log] test_CapabilitiesOfCRM: Clicking on Capabilities of CRM button 
+2015-05-22 08:49:39,453 INFO  [Log] Capabilities_of_CRM: Element Present 
+2015-05-22 08:49:39,692 INFO  [Log] ---------------Validating CSS-------------- 
+2015-05-22 08:49:39,729 INFO  [Log] CSS Validation: Color code PASS 
+2015-05-22 08:49:39,781 INFO  [Log] CSS Validation: display PASS 
+2015-05-22 08:49:39,833 INFO  [Log] CSS Validation: font-size PASS 
+2015-05-22 08:49:39,884 INFO  [Log] CSS Validation: height PASS 
+2015-05-22 08:49:39,935 INFO  [Log] CSS Validation: width PASS 
+2015-05-22 08:49:39,986 INFO  [Log] CSS Validation: cursor PASS 
+2015-05-22 08:49:40,038 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-05-22 08:49:40,092 INFO  [Log] CSS Validation: font-family PASS 
+2015-05-22 08:49:40,143 INFO  [Log] CSS Validation: font-style PASS 
+2015-05-22 08:49:40,193 INFO  [Log] CSS Validation: font-weight PASS 
+2015-05-22 08:49:40,193 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-05-22 08:49:40,193 INFO  [Log] test_CapabilitiesOfCRM: Switch Frame 
+2015-05-22 08:49:40,488 INFO  [Log] Clicking on 1st image 
+2015-05-22 08:49:43,156 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 2nd image 
+2015-05-22 08:49:43,624 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 3rd image 
+2015-05-22 08:49:44,099 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 4th image 
+2015-05-22 08:49:44,538 INFO  [Log] test_CapabilitiesOfCRM: Switch to Default Frame 
+2015-05-22 08:49:44,610 INFO  [Log] --------------test_CapabilitiesOfCRM DONE------------------ 
+2015-05-22 08:49:44,611 INFO  [Log] --------------test_FrontEndAndBackendFunctions START------------------ 
+2015-05-22 08:49:44,611 INFO  [Log] test_FrontEndAndBackendFunctions: Clicking on Capabilities of CRM button 
+2015-05-22 08:49:44,682 INFO  [Log] test_FrontEndAndBackendFunctions: Element Present 
+2015-05-22 08:49:44,910 INFO  [Log] ---------------Validating CSS-------------- 
+2015-05-22 08:49:44,943 INFO  [Log] CSS Validation: Color code PASS 
+2015-05-22 08:49:44,992 INFO  [Log] CSS Validation: display PASS 
+2015-05-22 08:49:45,043 INFO  [Log] CSS Validation: font-size PASS 
+2015-05-22 08:49:45,093 INFO  [Log] CSS Validation: height PASS 
+2015-05-22 08:49:45,145 INFO  [Log] CSS Validation: width PASS 
+2015-05-22 08:49:45,210 INFO  [Log] CSS Validation: cursor PASS 
+2015-05-22 08:49:45,263 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-05-22 08:49:45,314 INFO  [Log] CSS Validation: font-family PASS 
+2015-05-22 08:49:45,364 INFO  [Log] CSS Validation: font-style PASS 
+2015-05-22 08:49:45,414 INFO  [Log] CSS Validation: font-weight PASS 
+2015-05-22 08:49:45,415 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-05-22 08:49:45,415 INFO  [Log] test_FrontEndAndBackendFunctions: Switch Frame 
+2015-05-22 08:49:45,492 INFO  [Log] test_FrontEndAndBackendFunctions: Validating image present or not 
+2015-05-22 08:49:47,302 INFO  [Log] test_FrontEndAndBackendFunctions: Validating present 
+2015-05-22 08:49:47,303 INFO  [Log] test_FrontEndAndBackendFunctions: Switch to Default Frame 
+2015-05-22 08:49:47,374 INFO  [Log] --------------test_FrontEndAndBackendFunctions DONE------------------ 
+2015-05-22 08:49:47,375 INFO  [Log] --------------test_PrinciplesOfCRM START------------------ 
+2015-05-22 08:49:47,375 INFO  [Log] test_PrinciplesOfCRM: Clicking on Principles of CRM button 
+2015-05-22 08:49:47,428 INFO  [Log] test_PrinciplesOfCRM: Element Present 
+2015-05-22 08:49:47,481 INFO  [Log] ---------------Validating CSS-------------- 
+2015-05-22 08:49:47,518 INFO  [Log] CSS Validation: Color code FAIL 
+2015-05-22 08:49:47,518 INFO  [Log] CSS Validation: Color code should be #af5200 
+2015-05-22 08:49:47,571 INFO  [Log] CSS Validation: display PASS 
+2015-05-22 08:49:47,623 INFO  [Log] CSS Validation: font-size PASS 
+2015-05-22 08:49:47,695 INFO  [Log] CSS Validation: height PASS 
+2015-05-22 08:49:47,749 INFO  [Log] CSS Validation: width PASS 
+2015-05-22 08:49:47,802 INFO  [Log] CSS Validation: cursor FAIL 
+2015-05-22 08:49:47,803 INFO  [Log] CSS Validation: cursor should be text 
+2015-05-22 08:49:47,852 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-05-22 08:49:47,901 INFO  [Log] CSS Validation: font-family PASS 
+2015-05-22 08:49:47,953 INFO  [Log] CSS Validation: font-style PASS 
+2015-05-22 08:49:48,003 INFO  [Log] CSS Validation: font-weight PASS 
+2015-05-22 08:49:48,003 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-05-22 08:49:48,198 INFO  [Log] test_PrinciplesOfCRM: Switch Frame 
+2015-05-22 08:49:49,607 INFO  [Log] Clicking Img 
+2015-05-22 08:49:49,821 INFO  [Log] test_PrinciplesOfCRM: Click on resized image 
+2015-05-22 08:49:50,303 INFO  [Log] test_PrinciplesOfCRM: Clicking Img 
+2015-05-22 08:49:50,543 INFO  [Log] test_PrinciplesOfCRM: Click on resized image 
+2015-05-22 08:49:51,008 INFO  [Log] test_PrinciplesOfCRM: Switch to Default Frame 
+2015-05-22 08:49:51,083 INFO  [Log] --------------test_PrinciplesOfCRM DONE------------------ 
+2015-05-22 08:49:51,084 INFO  [Log] --------------test_eTOMAssessment1 START------------------ 
+2015-05-22 08:49:51,084 INFO  [Log] test_eTOMAssessment1: Clicking on 1st Assignment 
+2015-05-22 08:49:51,364 INFO  [Log] test_eTOMAssessment1: Element Present 
+2015-05-22 08:49:51,621 INFO  [Log] ---------------Validating CSS-------------- 
+2015-05-22 08:49:51,665 INFO  [Log] CSS Validation: Color code PASS 
+2015-05-22 08:49:51,725 INFO  [Log] CSS Validation: display PASS 
+2015-05-22 08:49:51,783 INFO  [Log] CSS Validation: font-size PASS 
+2015-05-22 08:49:51,841 INFO  [Log] CSS Validation: height PASS 
+2015-05-22 08:49:51,917 INFO  [Log] CSS Validation: width PASS 
+2015-05-22 08:49:51,969 INFO  [Log] CSS Validation: cursor PASS 
+2015-05-22 08:49:52,027 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-05-22 08:49:52,083 INFO  [Log] CSS Validation: font-family PASS 
+2015-05-22 08:49:52,137 INFO  [Log] CSS Validation: font-style PASS 
+2015-05-22 08:49:52,191 INFO  [Log] CSS Validation: font-weight PASS 
+2015-05-22 08:49:52,191 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-05-22 08:49:52,191 INFO  [Log] test_eTOMAssessment1: Switch Frame 
+2015-05-22 08:49:52,267 INFO  [Log] test_eTOMAssessment1: Clicking Submit 
+2015-05-22 08:49:55,808 INFO  [Log] test_eTOMAssessment1: Clicking Retry 
+2015-05-22 08:49:56,377 INFO  [Log] Moving button 
+2015-05-22 08:49:58,527 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-05-22 08:49:58,737 INFO  [Log] Moving button 
+2015-05-22 08:50:00,812 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-05-22 08:50:01,036 INFO  [Log] Moving button 
+2015-05-22 08:50:03,112 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-05-22 08:50:03,313 INFO  [Log] Moving button 
+2015-05-22 08:50:05,416 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-05-22 08:50:05,661 INFO  [Log] test_eTOMAssessment1: Clicking Submit 
+2015-05-22 08:50:05,857 INFO  [Log] test_eTOMAssessment1: Switch to Default Frame 
+2015-05-22 08:50:06,572 INFO  [Log] --------------test_eTOMAssessment1 DONE------------------ 
+2015-05-22 08:50:06,573 INFO  [Log] --------------test_eTOMAssessment2 START------------------ 
+2015-05-22 08:50:06,573 INFO  [Log] test_eTOMAssessment2: Clicking on 2nd Assignment 
+2015-05-22 08:50:06,629 INFO  [Log] test_eTOMAssessment1: Element Present 
+2015-05-22 08:50:06,869 INFO  [Log] ---------------Validating CSS-------------- 
+2015-05-22 08:50:06,907 INFO  [Log] CSS Validation: Color code PASS 
+2015-05-22 08:50:06,958 INFO  [Log] CSS Validation: display PASS 
+2015-05-22 08:50:07,008 INFO  [Log] CSS Validation: font-size PASS 
+2015-05-22 08:50:07,079 INFO  [Log] CSS Validation: height PASS 
+2015-05-22 08:50:07,150 INFO  [Log] CSS Validation: width PASS 
+2015-05-22 08:50:07,201 INFO  [Log] CSS Validation: cursor PASS 
+2015-05-22 08:50:07,251 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-05-22 08:50:07,302 INFO  [Log] CSS Validation: font-family PASS 
+2015-05-22 08:50:07,353 INFO  [Log] CSS Validation: font-style PASS 
+2015-05-22 08:50:07,404 INFO  [Log] CSS Validation: font-weight PASS 
+2015-05-22 08:50:07,404 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-05-22 08:50:07,404 INFO  [Log] test_eTOMAssessment2: Switch Frame 
+2015-05-22 08:50:07,746 INFO  [Log] test_eTOMAssessment2: Option 2 checked 
+2015-05-22 08:50:08,659 INFO  [Log] test_eTOMAssessment2: Option 3 checked 
+2015-05-22 08:50:09,161 INFO  [Log] test_eTOMAssessment2: Option 4 checked 
+2015-05-22 08:50:09,320 INFO  [Log] test_eTOMAssessment2: Option 5 checked 
+2015-05-22 08:50:09,481 INFO  [Log] test_eTOMAssessment2: Option 6 checked 
+2015-05-22 08:50:09,839 INFO  [Log] test_eTOMAssessment2: Option 2 unchecked 
+2015-05-22 08:50:09,992 INFO  [Log] test_eTOMAssessment2: Option 3 unchecked 
+2015-05-22 08:50:10,147 INFO  [Log] test_eTOMAssessment2: Option 3 unchecked 
+2015-05-22 08:50:10,302 INFO  [Log] test_eTOMAssessment2: Option 4 unchecked 
+2015-05-22 08:50:10,458 INFO  [Log] test_eTOMAssessment2: Option 5 unchecked 
+2015-05-22 08:50:10,819 INFO  [Log] test_eTOMAssessment2: Clicking Submit 
+2015-05-22 08:50:10,988 INFO  [Log] test_eTOMAssessment2: Switch to Default Frame 
+2015-05-22 08:50:11,241 INFO  [Log] --------------test_eTOMAssessment2 DONE------------------ 
+2015-05-22 08:50:11,244 INFO  [Log] --------------testHover START------------------ 
+2015-05-22 08:50:11,244 INFO  [Log] testHover: Checking Hover 
+2015-05-22 08:50:11,374 INFO  [Log] testHover: Color of element after hover: #af5200 
+2015-05-22 08:50:11,660 INFO  [Log] --------------testHover DONE------------------ 
+2015-05-22 08:50:11,662 INFO  [Log] --------------test_checkUncheckLeftPanel START------------------ 
+2015-05-22 08:50:11,662 INFO  [Log] getting details of visited, unvisited and current item under Left Panel 
+2015-05-22 08:50:11,800 INFO  [Log] test_checkUncheckLeftPanel: Principles of CRM : item visited result code:  
+2015-05-22 08:50:11,902 INFO  [Log] test_checkUncheckLeftPanel: Capabilities of CRM : item visited result code:  
+2015-05-22 08:50:12,009 INFO  [Log] test_checkUncheckLeftPanel: Front-end and Backend functions : item visited result code:  
+2015-05-22 08:50:12,115 INFO  [Log] test_checkUncheckLeftPanel: eTOM Assessment 1 : item visited result code:  
+2015-05-22 08:50:12,222 INFO  [Log] test_checkUncheckLeftPanel: eTOM Assessment 2 : item selected result code:  
+2015-05-22 08:50:12,326 INFO  [Log] test_checkUncheckLeftPanel: CRM process flow : item visited result code:  
+2015-05-22 08:50:12,429 INFO  [Log] test_checkUncheckLeftPanel: Order Tracking and real-time checks : item visited result code:  
+2015-05-22 08:50:12,533 INFO  [Log] test_checkUncheckLeftPanel: Fulfillment visibility : item visited result code:  
+2015-05-22 08:50:12,637 INFO  [Log] test_checkUncheckLeftPanel: Billing Management : item visited result code:  
+2015-05-22 08:50:12,740 INFO  [Log] test_checkUncheckLeftPanel: Customer Support : item visited result code:  
+2015-05-22 08:50:12,843 INFO  [Log] test_checkUncheckLeftPanel: Role of Workflow : item visited result code:  
+2015-05-22 08:50:12,946 INFO  [Log] test_checkUncheckLeftPanel: CRM products and Market : item visited result code:  
+2015-05-22 08:50:13,013 INFO  [Log] --------------test_checkUncheckLeftPanel DONE------------------ 
+2015-05-22 08:50:13,015 INFO  [Log] Closing the Browser 
+2015-05-22 08:50:13,139 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-05-22 11:19:32,319 INFO  [Log] **************************************************************************************** 
+2015-05-22 11:19:32,320 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-05-22 11:19:32,320 INFO  [Log] **************************************************************************************** 
+2015-05-22 11:19:32,320 INFO  [Log] Loading config properties file 
+2015-05-22 11:19:32,320 INFO  [Log] New driver instantiated 
+2015-05-22 11:19:52,236 INFO  [Log] Launching Browser 
+2015-05-22 11:19:52,236 INFO  [Log] Opening URL 
+2015-05-22 11:19:59,122 INFO  [Log] Maximizing Browser 
+2015-05-22 11:20:00,116 INFO  [Log] --------------test_DownloadPDF START------------------ 
+2015-05-22 11:20:00,116 INFO  [Log] test_DownloadPDF: DownloadPDF 
+2015-05-22 11:20:00,286 INFO  [Log] test_DownloadPDF: Working Fine 
+2015-05-22 11:20:00,824 INFO  [Log] --------------test_DownloadPDF DONE------------------ 
+2015-05-22 11:20:00,826 INFO  [Log] --------------test_ExitCourseButton START------------------ 
+2015-05-22 11:20:00,826 INFO  [Log] test_ExitCourseButton: Test Close button 
+2015-05-22 11:20:02,741 INFO  [Log] test_ExitCourseButton: Close working Fine 
+2015-05-22 11:20:02,741 INFO  [Log] --------------test_ExitCourseButton DONE------------------ 
+2015-05-22 11:20:02,742 INFO  [Log] --------------test_GlossaryLink START------------------ 
+2015-05-22 11:20:02,742 INFO  [Log] test_GlossaryLink: Test Glossary 
+2015-05-22 11:20:03,300 INFO  [Log] test_GlossaryLink: Glossary is working fine 
+2015-05-22 11:20:03,356 INFO  [Log] --------------test_GlossaryLink DONE------------------ 
+2015-05-22 11:20:03,357 INFO  [Log] --------------test_HelpLink START------------------ 
+2015-05-22 11:20:03,357 INFO  [Log] test_HelpLink: Test Help button 
+2015-05-22 11:20:03,924 INFO  [Log] test_HelpLink: Help working fine 
+2015-05-22 11:20:03,969 INFO  [Log] --------------test_HelpLink DONE------------------ 
+2015-05-22 11:20:03,985 INFO  [Log] --------------test_Logo START------------------ 
+2015-05-22 11:20:03,985 INFO  [Log] test_Logo: Test Logo 
+2015-05-22 11:20:03,994 INFO  [Log] test_Logo: Logo Present 
+2015-05-22 11:20:04,036 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-05-22 11:20:04,038 INFO  [Log] --------------test_Title START------------------ 
+2015-05-22 11:20:04,038 INFO  [Log] test_Title: Test Title 
+2015-05-22 11:20:04,345 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-05-22 11:20:04,413 INFO  [Log] --------------test_Title DONE------------------ 
+2015-05-22 11:20:04,417 INFO  [Log] --------------test_NextPageButton START------------------ 
+2015-05-22 11:20:04,417 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 11:20:04,460 INFO  [Log] test_PreviousPageButton: Element Present 
+2015-05-22 11:20:04,678 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 11:20:04,908 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 11:20:05,139 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 11:20:05,369 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 11:20:05,544 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 11:20:05,780 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 11:20:06,010 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 11:20:06,241 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 11:20:06,469 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 11:20:06,700 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-05-22 11:20:06,917 INFO  [Log] --------------test_NextPageButton DONE------------------ 
+2015-05-22 11:20:06,918 INFO  [Log] --------------test_PreviousPageButton START------------------ 
+2015-05-22 11:20:07,015 INFO  [Log] test_PreviousPageButton: Element present 
+2015-05-22 11:20:07,015 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 11:20:07,223 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 11:20:07,454 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 11:20:07,686 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 11:20:07,913 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 11:20:08,145 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 11:20:08,378 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 11:20:08,608 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 11:20:08,840 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 11:20:09,091 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 11:20:09,321 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-05-22 11:20:09,534 INFO  [Log] --------------test_PreviousPageButton DONE------------------ 
+2015-05-22 11:20:09,535 INFO  [Log] --------------test_RefreshPageButton START------------------ 
+2015-05-22 11:20:09,683 INFO  [Log] test_RefreshPageButton: Element present 
+2015-05-22 11:20:09,683 INFO  [Log] test_RefreshPageButton: Clicking Refresh Button 
+2015-05-22 11:20:09,928 INFO  [Log] test_RefreshPageButton: Page Refreshed  
+2015-05-22 11:20:09,928 INFO  [Log] --------------test_RefreshPageButton DONE------------------ 
+2015-05-22 11:20:09,931 INFO  [Log] --------------test_CapabilitiesOfCRM START------------------ 
+2015-05-22 11:20:09,931 INFO  [Log] test_CapabilitiesOfCRM: Clicking on Capabilities of CRM button 
+2015-05-22 11:20:09,985 INFO  [Log] Capabilities_of_CRM: Element Present 
+2015-05-22 11:20:10,233 INFO  [Log] ---------------Validating CSS-------------- 
+2015-05-22 11:20:10,272 INFO  [Log] CSS Validation: Color code PASS 
+2015-05-22 11:20:10,325 INFO  [Log] CSS Validation: display PASS 
+2015-05-22 11:20:10,379 INFO  [Log] CSS Validation: font-size PASS 
+2015-05-22 11:20:10,433 INFO  [Log] CSS Validation: height PASS 
+2015-05-22 11:20:10,488 INFO  [Log] CSS Validation: width PASS 
+2015-05-22 11:20:10,542 INFO  [Log] CSS Validation: cursor PASS 
+2015-05-22 11:20:10,598 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-05-22 11:20:10,652 INFO  [Log] CSS Validation: font-family PASS 
+2015-05-22 11:20:10,704 INFO  [Log] CSS Validation: font-style PASS 
+2015-05-22 11:20:10,757 INFO  [Log] CSS Validation: font-weight PASS 
+2015-05-22 11:20:10,757 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-05-22 11:20:10,757 INFO  [Log] test_CapabilitiesOfCRM: Switch Frame 
+2015-05-22 11:20:11,049 INFO  [Log] Clicking on 1st image 
+2015-05-22 11:20:14,054 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 2nd image 
+2015-05-22 11:20:14,494 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 3rd image 
+2015-05-22 11:20:14,931 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 4th image 
+2015-05-22 11:20:15,384 INFO  [Log] test_CapabilitiesOfCRM: Switch to Default Frame 
+2015-05-22 11:20:15,455 INFO  [Log] --------------test_CapabilitiesOfCRM DONE------------------ 
+2015-05-22 11:20:15,456 INFO  [Log] --------------test_FrontEndAndBackendFunctions START------------------ 
+2015-05-22 11:20:15,456 INFO  [Log] test_FrontEndAndBackendFunctions: Clicking on Capabilities of CRM button 
+2015-05-22 11:20:15,511 INFO  [Log] test_FrontEndAndBackendFunctions: Element Present 
+2015-05-22 11:20:15,789 INFO  [Log] ---------------Validating CSS-------------- 
+2015-05-22 11:20:15,812 INFO  [Log] CSS Validation: Color code PASS 
+2015-05-22 11:20:15,868 INFO  [Log] CSS Validation: display PASS 
+2015-05-22 11:20:15,920 INFO  [Log] CSS Validation: font-size PASS 
+2015-05-22 11:20:15,971 INFO  [Log] CSS Validation: height PASS 
+2015-05-22 11:20:16,022 INFO  [Log] CSS Validation: width PASS 
+2015-05-22 11:20:16,075 INFO  [Log] CSS Validation: cursor PASS 
+2015-05-22 11:20:16,141 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-05-22 11:20:16,192 INFO  [Log] CSS Validation: font-family PASS 
+2015-05-22 11:20:16,243 INFO  [Log] CSS Validation: font-style PASS 
+2015-05-22 11:20:16,295 INFO  [Log] CSS Validation: font-weight PASS 
+2015-05-22 11:20:16,295 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-05-22 11:20:16,295 INFO  [Log] test_FrontEndAndBackendFunctions: Switch Frame 
+2015-05-22 11:20:16,370 INFO  [Log] test_FrontEndAndBackendFunctions: Validating image present or not 
+2015-05-22 11:20:18,536 INFO  [Log] test_FrontEndAndBackendFunctions: Validating present 
+2015-05-22 11:20:18,536 INFO  [Log] test_FrontEndAndBackendFunctions: Switch to Default Frame 
+2015-05-22 11:20:18,613 INFO  [Log] --------------test_FrontEndAndBackendFunctions DONE------------------ 
+2015-05-22 11:20:18,613 INFO  [Log] --------------test_PrinciplesOfCRM START------------------ 
+2015-05-22 11:20:18,613 INFO  [Log] test_PrinciplesOfCRM: Clicking on Principles of CRM button 
+2015-05-22 11:20:18,669 INFO  [Log] test_PrinciplesOfCRM: Element Present 
+2015-05-22 11:20:18,718 INFO  [Log] ---------------Validating CSS-------------- 
+2015-05-22 11:20:18,753 INFO  [Log] CSS Validation: Color code FAIL 
+2015-05-22 11:20:18,753 INFO  [Log] CSS Validation: Color code should be #af5200 
+2015-05-22 11:20:18,806 INFO  [Log] CSS Validation: display PASS 
+2015-05-22 11:20:18,856 INFO  [Log] CSS Validation: font-size PASS 
+2015-05-22 11:20:18,907 INFO  [Log] CSS Validation: height PASS 
+2015-05-22 11:20:18,961 INFO  [Log] CSS Validation: width PASS 
+2015-05-22 11:20:19,015 INFO  [Log] CSS Validation: cursor FAIL 
+2015-05-22 11:20:19,016 INFO  [Log] CSS Validation: cursor should be text 
+2015-05-22 11:20:19,066 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-05-22 11:20:19,117 INFO  [Log] CSS Validation: font-family PASS 
+2015-05-22 11:20:19,167 INFO  [Log] CSS Validation: font-style PASS 
+2015-05-22 11:20:19,220 INFO  [Log] CSS Validation: font-weight PASS 
+2015-05-22 11:20:19,221 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-05-22 11:20:19,414 INFO  [Log] test_PrinciplesOfCRM: Switch Frame 
+2015-05-22 11:20:21,092 INFO  [Log] Clicking Img 
+2015-05-22 11:20:21,300 INFO  [Log] test_PrinciplesOfCRM: Click on resized image 
+2015-05-22 11:20:21,791 INFO  [Log] test_PrinciplesOfCRM: Clicking Img 
+2015-05-22 11:20:22,048 INFO  [Log] test_PrinciplesOfCRM: Click on resized image 
+2015-05-22 11:20:22,556 INFO  [Log] test_PrinciplesOfCRM: Switch to Default Frame 
+2015-05-22 11:20:22,636 INFO  [Log] --------------test_PrinciplesOfCRM DONE------------------ 
+2015-05-22 11:20:22,637 INFO  [Log] --------------test_eTOMAssessment1 START------------------ 
+2015-05-22 11:20:22,637 INFO  [Log] test_eTOMAssessment1: Clicking on 1st Assignment 
+2015-05-22 11:20:23,435 INFO  [Log] test_eTOMAssessment1: Element Present 
+2015-05-22 11:20:23,693 INFO  [Log] ---------------Validating CSS-------------- 
+2015-05-22 11:20:23,743 INFO  [Log] CSS Validation: Color code PASS 
+2015-05-22 11:20:23,803 INFO  [Log] CSS Validation: display PASS 
+2015-05-22 11:20:23,863 INFO  [Log] CSS Validation: font-size PASS 
+2015-05-22 11:20:23,920 INFO  [Log] CSS Validation: height PASS 
+2015-05-22 11:20:23,978 INFO  [Log] CSS Validation: width PASS 
+2015-05-22 11:20:24,061 INFO  [Log] CSS Validation: cursor PASS 
+2015-05-22 11:20:24,122 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-05-22 11:20:24,180 INFO  [Log] CSS Validation: font-family PASS 
+2015-05-22 11:20:24,235 INFO  [Log] CSS Validation: font-style PASS 
+2015-05-22 11:20:24,289 INFO  [Log] CSS Validation: font-weight PASS 
+2015-05-22 11:20:24,289 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-05-22 11:20:24,289 INFO  [Log] test_eTOMAssessment1: Switch Frame 
+2015-05-22 11:20:24,364 INFO  [Log] test_eTOMAssessment1: Clicking Submit 
+2015-05-22 11:20:29,092 INFO  [Log] test_eTOMAssessment1: Clicking Retry 
+2015-05-22 11:20:29,751 INFO  [Log] Moving button 
+2015-05-22 11:20:31,889 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-05-22 11:20:32,103 INFO  [Log] Moving button 
+2015-05-22 11:20:34,202 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-05-22 11:20:34,398 INFO  [Log] Moving button 
+2015-05-22 11:20:36,495 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-05-22 11:20:36,691 INFO  [Log] Moving button 
+2015-05-22 11:20:38,799 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-05-22 11:20:39,053 INFO  [Log] test_eTOMAssessment1: Clicking Submit 
+2015-05-22 11:20:39,245 INFO  [Log] test_eTOMAssessment1: Switch to Default Frame 
+2015-05-22 11:20:40,198 INFO  [Log] --------------test_eTOMAssessment1 DONE------------------ 
+2015-05-22 11:20:40,199 INFO  [Log] --------------test_eTOMAssessment2 START------------------ 
+2015-05-22 11:20:40,199 INFO  [Log] test_eTOMAssessment2: Clicking on 2nd Assignment 
+2015-05-22 11:20:40,235 INFO  [Log] test_eTOMAssessment1: Element Present 
+2015-05-22 11:20:40,482 INFO  [Log] ---------------Validating CSS-------------- 
+2015-05-22 11:20:40,521 INFO  [Log] CSS Validation: Color code PASS 
+2015-05-22 11:20:40,574 INFO  [Log] CSS Validation: display PASS 
+2015-05-22 11:20:40,627 INFO  [Log] CSS Validation: font-size PASS 
+2015-05-22 11:20:40,679 INFO  [Log] CSS Validation: height PASS 
+2015-05-22 11:20:40,731 INFO  [Log] CSS Validation: width PASS 
+2015-05-22 11:20:40,783 INFO  [Log] CSS Validation: cursor PASS 
+2015-05-22 11:20:40,857 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-05-22 11:20:40,910 INFO  [Log] CSS Validation: font-family PASS 
+2015-05-22 11:20:40,964 INFO  [Log] CSS Validation: font-style PASS 
+2015-05-22 11:20:41,017 INFO  [Log] CSS Validation: font-weight PASS 
+2015-05-22 11:20:41,017 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-05-22 11:20:41,017 INFO  [Log] test_eTOMAssessment2: Switch Frame 
+2015-05-22 11:20:41,278 INFO  [Log] test_eTOMAssessment2: Option 2 checked 
+2015-05-22 11:20:42,852 INFO  [Log] test_eTOMAssessment2: Option 3 checked 
+2015-05-22 11:20:43,546 INFO  [Log] test_eTOMAssessment2: Option 4 checked 
+2015-05-22 11:20:43,712 INFO  [Log] test_eTOMAssessment2: Option 5 checked 
+2015-05-22 11:20:43,875 INFO  [Log] test_eTOMAssessment2: Option 6 checked 
+2015-05-22 11:20:44,234 INFO  [Log] test_eTOMAssessment2: Option 2 unchecked 
+2015-05-22 11:20:44,394 INFO  [Log] test_eTOMAssessment2: Option 3 unchecked 
+2015-05-22 11:20:44,558 INFO  [Log] test_eTOMAssessment2: Option 3 unchecked 
+2015-05-22 11:20:44,722 INFO  [Log] test_eTOMAssessment2: Option 4 unchecked 
+2015-05-22 11:20:44,885 INFO  [Log] test_eTOMAssessment2: Option 5 unchecked 
+2015-05-22 11:20:45,257 INFO  [Log] test_eTOMAssessment2: Clicking Submit 
+2015-05-22 11:20:45,435 INFO  [Log] test_eTOMAssessment2: Switch to Default Frame 
+2015-05-22 11:20:45,716 INFO  [Log] --------------test_eTOMAssessment2 DONE------------------ 
+2015-05-22 11:20:45,720 INFO  [Log] --------------testHover START------------------ 
+2015-05-22 11:20:45,720 INFO  [Log] testHover: Checking Hover 
+2015-05-22 11:20:45,842 INFO  [Log] testHover: Color of element after hover: #af5200 
+2015-05-22 11:20:46,135 INFO  [Log] --------------testHover DONE------------------ 
+2015-05-22 11:20:46,138 INFO  [Log] --------------test_checkUncheckLeftPanel START------------------ 
+2015-05-22 11:20:46,138 INFO  [Log] getting details of visited, unvisited and current item under Left Panel 
+2015-05-22 11:20:46,278 INFO  [Log] test_checkUncheckLeftPanel: Principles of CRM : item visited result code:  
+2015-05-22 11:20:46,385 INFO  [Log] test_checkUncheckLeftPanel: Capabilities of CRM : item visited result code:  
+2015-05-22 11:20:46,493 INFO  [Log] test_checkUncheckLeftPanel: Front-end and Backend functions : item visited result code:  
+2015-05-22 11:20:46,603 INFO  [Log] test_checkUncheckLeftPanel: eTOM Assessment 1 : item visited result code:  
+2015-05-22 11:20:46,711 INFO  [Log] test_checkUncheckLeftPanel: eTOM Assessment 2 : item selected result code:  
+2015-05-22 11:20:46,819 INFO  [Log] test_checkUncheckLeftPanel: CRM process flow : item visited result code:  
+2015-05-22 11:20:46,925 INFO  [Log] test_checkUncheckLeftPanel: Order Tracking and real-time checks : item visited result code:  
+2015-05-22 11:20:47,034 INFO  [Log] test_checkUncheckLeftPanel: Fulfillment visibility : item visited result code:  
+2015-05-22 11:20:47,143 INFO  [Log] test_checkUncheckLeftPanel: Billing Management : item visited result code:  
+2015-05-22 11:20:47,250 INFO  [Log] test_checkUncheckLeftPanel: Customer Support : item visited result code:  
+2015-05-22 11:20:47,358 INFO  [Log] test_checkUncheckLeftPanel: Role of Workflow : item visited result code:  
+2015-05-22 11:20:47,465 INFO  [Log] test_checkUncheckLeftPanel: CRM products and Market : item visited result code:  
+2015-05-22 11:20:47,534 INFO  [Log] --------------test_checkUncheckLeftPanel DONE------------------ 
+2015-05-22 11:20:47,536 INFO  [Log] Closing the Browser 
+2015-05-22 11:20:47,663 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-02 07:37:00,534 INFO  [Log] **************************************************************************************** 
+2015-06-02 07:37:00,534 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-02 07:37:00,534 INFO  [Log] **************************************************************************************** 
+2015-06-02 07:37:00,534 INFO  [Log] Loading config properties file 
+2015-06-02 07:37:00,534 INFO  [Log] New driver instantiated 
+2015-06-02 07:37:13,702 INFO  [Log] Launching Browser 
+2015-06-02 07:37:13,702 INFO  [Log] Opening URL 
+2015-06-02 07:37:19,287 INFO  [Log] Maximizing Browser 
+2015-06-02 07:37:20,208 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-02 07:37:20,208 INFO  [Log] test_Logo: Test Logo 
+2015-06-02 07:37:20,270 INFO  [Log] test_Logo: Logo Present 
+2015-06-02 07:37:21,237 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-02 07:37:21,237 INFO  [Log] --------------test_Title START------------------ 
+2015-06-02 07:37:21,237 INFO  [Log] test_Title: Test Title 
+2015-06-02 07:37:22,331 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-02 07:37:22,510 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-02 07:37:22,541 INFO  [Log] Closing the Browser 
+2015-06-02 07:37:22,632 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-02 07:41:39,297 INFO  [Log] **************************************************************************************** 
+2015-06-02 07:41:39,297 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-02 07:41:39,297 INFO  [Log] **************************************************************************************** 
+2015-06-02 07:41:39,297 INFO  [Log] Loading config properties file 
+2015-06-02 07:41:39,297 INFO  [Log] New driver instantiated 
+2015-06-02 07:41:51,023 INFO  [Log] Launching Browser 
+2015-06-02 07:41:51,023 INFO  [Log] Opening URL 
+2015-06-02 07:41:55,046 INFO  [Log] Maximizing Browser 
+2015-06-02 07:41:56,465 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-02 07:41:56,465 INFO  [Log] test_Logo: Test Logo 
+2015-06-02 07:41:57,142 INFO  [Log] test_Logo: Logo Present 
+2015-06-02 07:41:57,697 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-02 07:41:57,698 INFO  [Log] --------------test_Title START------------------ 
+2015-06-02 07:41:57,698 INFO  [Log] test_Title: Test Title 
+2015-06-02 07:41:57,947 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-02 07:41:58,120 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-02 07:41:58,130 INFO  [Log] Closing the Browser 
+2015-06-02 07:41:58,217 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-02 08:46:48,946 INFO  [Log] **************************************************************************************** 
+2015-06-02 08:46:48,947 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-02 08:46:48,947 INFO  [Log] **************************************************************************************** 
+2015-06-02 08:46:48,947 INFO  [Log] Loading config properties file 
+2015-06-02 08:46:48,947 INFO  [Log] New driver instantiated 
+2015-06-02 08:47:01,369 INFO  [Log] Launching Browser 
+2015-06-02 08:47:01,369 INFO  [Log] Opening URL 
+2015-06-02 08:47:05,927 INFO  [Log] Maximizing Browser 
+2015-06-02 08:47:06,853 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-02 08:47:06,853 INFO  [Log] test_Logo: Test Logo 
+2015-06-02 08:47:06,937 INFO  [Log] test_Logo: Logo Present 
+2015-06-02 08:47:07,471 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-02 08:47:07,472 INFO  [Log] --------------test_Title START------------------ 
+2015-06-02 08:47:07,472 INFO  [Log] test_Title: Test Title 
+2015-06-02 08:47:07,709 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-02 08:47:07,891 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-02 08:47:07,902 INFO  [Log] Closing the Browser 
+2015-06-02 08:47:08,039 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-03 07:51:28,437 INFO  [Log] **************************************************************************************** 
+2015-06-03 07:51:28,453 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-03 07:51:28,453 INFO  [Log] **************************************************************************************** 
+2015-06-03 07:51:28,453 INFO  [Log] Loading config properties file 
+2015-06-03 07:51:28,453 INFO  [Log] New driver instantiated 
+2015-06-03 07:51:40,654 INFO  [Log] Launching Browser 
+2015-06-03 07:51:40,654 INFO  [Log] Opening URL 
+2015-06-03 07:51:46,021 INFO  [Log] Maximizing Browser 
+2015-06-03 07:51:46,910 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-03 07:51:46,910 INFO  [Log] test_Logo: Test Logo 
+2015-06-03 07:51:47,003 INFO  [Log] test_Logo: Logo Present 
+2015-06-03 07:51:47,612 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-03 07:51:47,612 INFO  [Log] --------------test_Title START------------------ 
+2015-06-03 07:51:47,612 INFO  [Log] test_Title: Test Title 
+2015-06-03 07:51:48,633 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-03 07:51:48,815 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-03 07:51:48,846 INFO  [Log] Closing the Browser 
+2015-06-03 07:51:48,949 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-03 07:52:57,684 INFO  [Log] **************************************************************************************** 
+2015-06-03 07:52:57,684 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-03 07:52:57,684 INFO  [Log] **************************************************************************************** 
+2015-06-03 07:52:57,684 INFO  [Log] Loading config properties file 
+2015-06-03 07:52:57,684 INFO  [Log] New driver instantiated 
+2015-06-03 07:53:08,482 INFO  [Log] Launching Browser 
+2015-06-03 07:53:08,482 INFO  [Log] Opening URL 
+2015-06-03 07:53:12,319 INFO  [Log] Maximizing Browser 
+2015-06-03 07:53:13,099 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-03 07:53:13,099 INFO  [Log] test_Logo: Test Logo 
+2015-06-03 07:53:13,193 INFO  [Log] test_Logo: Logo Present 
+2015-06-03 07:53:13,708 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-03 07:53:13,708 INFO  [Log] --------------test_Title START------------------ 
+2015-06-03 07:53:13,708 INFO  [Log] test_Title: Test Title 
+2015-06-03 07:53:14,452 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-03 07:53:14,625 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-03 07:53:14,637 INFO  [Log] Closing the Browser 
+2015-06-03 07:53:14,748 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-03 07:54:03,359 INFO  [Log] **************************************************************************************** 
+2015-06-03 07:54:03,359 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-03 07:54:03,359 INFO  [Log] **************************************************************************************** 
+2015-06-03 07:54:03,359 INFO  [Log] Loading config properties file 
+2015-06-03 07:54:03,359 INFO  [Log] New driver instantiated 
+2015-06-03 07:54:14,406 INFO  [Log] Launching Browser 
+2015-06-03 07:54:14,406 INFO  [Log] Opening URL 
+2015-06-03 07:54:18,213 INFO  [Log] Maximizing Browser 
+2015-06-03 07:54:18,961 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-03 07:54:18,961 INFO  [Log] test_Logo: Test Logo 
+2015-06-03 07:54:19,055 INFO  [Log] test_Logo: Logo Present 
+2015-06-03 07:54:19,570 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-03 07:54:19,570 INFO  [Log] --------------test_Title START------------------ 
+2015-06-03 07:54:19,570 INFO  [Log] test_Title: Test Title 
+2015-06-03 07:54:20,452 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-03 07:54:20,642 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-03 07:54:20,655 INFO  [Log] Closing the Browser 
+2015-06-03 07:54:20,748 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-04 08:52:43,999 INFO  [Log] **************************************************************************************** 
+2015-06-04 08:52:44,014 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-04 08:52:44,014 INFO  [Log] **************************************************************************************** 
+2015-06-04 08:52:44,014 INFO  [Log] Loading config properties file 
+2015-06-04 08:52:44,014 INFO  [Log] New driver instantiated 
+2015-06-04 08:52:55,716 INFO  [Log] Launching Browser 
+2015-06-04 08:52:55,716 INFO  [Log] Opening URL 
+2015-06-04 08:53:00,786 INFO  [Log] Maximizing Browser 
+2015-06-04 08:53:01,660 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-04 08:53:01,660 INFO  [Log] test_Logo: Test Logo 
+2015-06-04 08:53:01,754 INFO  [Log] test_Logo: Logo Present 
+2015-06-04 08:53:02,503 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-04 08:53:02,534 INFO  [Log] --------------test_Title START------------------ 
+2015-06-04 08:53:02,534 INFO  [Log] test_Title: Test Title 
+2015-06-04 08:53:03,683 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-04 08:53:03,862 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-04 08:53:41,806 INFO  [Log] Closing the Browser 
+2015-06-04 08:53:41,899 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-12 11:53:52,143 INFO  [Log] **************************************************************************************** 
+2015-06-12 11:53:52,143 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-12 11:53:52,143 INFO  [Log] **************************************************************************************** 
+2015-06-12 11:53:52,143 INFO  [Log] Loading config properties file 
+2015-06-12 11:53:52,143 INFO  [Log] New driver instantiated 
+2015-06-12 11:54:06,045 INFO  [Log] Launching Browser 
+2015-06-12 11:54:06,045 INFO  [Log] Opening URL 
+2015-06-12 11:54:15,165 INFO  [Log] Maximizing Browser 
+2015-06-12 11:54:16,155 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-12 11:54:16,155 INFO  [Log] test_Logo: Test Logo 
+2015-06-12 11:54:16,205 INFO  [Log] test_Logo: Logo Present 
+2015-06-12 11:54:17,125 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-12 11:54:17,125 INFO  [Log] --------------test_Title START------------------ 
+2015-06-12 11:54:17,125 INFO  [Log] test_Title: Test Title 
+2015-06-12 11:54:17,355 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-12 11:54:17,525 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-12 11:54:17,573 INFO  [Log] Closing the Browser 
+2015-06-12 11:54:17,697 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-15 08:51:41,803 INFO  [Log] **************************************************************************************** 
+2015-06-15 08:51:41,803 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-15 08:51:41,803 INFO  [Log] **************************************************************************************** 
+2015-06-15 08:51:41,803 INFO  [Log] Loading config properties file 
+2015-06-15 08:51:41,803 INFO  [Log] New driver instantiated 
+2015-06-15 08:51:46,484 INFO  [Log] Launching Browser 
+2015-06-15 08:51:46,484 INFO  [Log] Opening URL 
+2015-06-15 08:51:53,486 INFO  [Log] Maximizing Browser 
+2015-06-15 08:51:54,484 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-15 08:51:54,484 INFO  [Log] test_Logo: Test Logo 
+2015-06-15 08:51:54,547 INFO  [Log] test_Logo: Logo Present 
+2015-06-15 08:51:55,249 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-15 08:51:55,249 INFO  [Log] --------------test_Title START------------------ 
+2015-06-15 08:51:55,249 INFO  [Log] test_Title: Test Title 
+2015-06-15 08:51:56,503 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-15 08:51:56,679 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-15 08:51:56,706 INFO  [Log] Closing the Browser 
+2015-06-15 08:51:56,794 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-15 08:53:08,113 INFO  [Log] **************************************************************************************** 
+2015-06-15 08:53:08,113 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-15 08:53:08,113 INFO  [Log] **************************************************************************************** 
+2015-06-15 08:53:08,113 INFO  [Log] Loading config properties file 
+2015-06-15 08:53:08,113 INFO  [Log] New driver instantiated 
+2015-06-15 08:53:32,242 INFO  [Log] Launching Browser 
+2015-06-15 08:53:32,242 INFO  [Log] Opening URL 
+2015-06-15 08:53:45,019 INFO  [Log] Maximizing Browser 
+2015-06-15 08:53:45,844 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-15 08:53:45,844 INFO  [Log] test_Logo: Test Logo 
+2015-06-15 08:53:45,928 INFO  [Log] test_Logo: Logo Present 
+2015-06-15 08:53:46,506 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-15 08:53:46,522 INFO  [Log] --------------test_Title START------------------ 
+2015-06-15 08:53:46,522 INFO  [Log] test_Title: Test Title 
+2015-06-15 08:53:46,771 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-15 08:53:46,947 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-15 08:53:47,029 INFO  [Log] Closing the Browser 
+2015-06-15 08:53:47,182 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-15 08:54:42,287 INFO  [Log] **************************************************************************************** 
+2015-06-15 08:54:42,287 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-15 08:54:42,287 INFO  [Log] **************************************************************************************** 
+2015-06-15 08:54:42,287 INFO  [Log] Loading config properties file 
+2015-06-15 08:54:42,287 INFO  [Log] New driver instantiated 
+2015-06-15 08:54:53,100 INFO  [Log] Launching Browser 
+2015-06-15 08:54:53,100 INFO  [Log] Opening URL 
+2015-06-15 08:54:57,530 INFO  [Log] Maximizing Browser 
+2015-06-15 08:54:58,420 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-15 08:54:58,420 INFO  [Log] test_Logo: Test Logo 
+2015-06-15 08:54:58,499 INFO  [Log] test_Logo: Logo Present 
+2015-06-15 08:54:59,013 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-15 08:54:59,029 INFO  [Log] --------------test_Title START------------------ 
+2015-06-15 08:54:59,029 INFO  [Log] test_Title: Test Title 
+2015-06-15 08:55:00,049 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-15 08:55:00,233 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-15 08:55:00,246 INFO  [Log] Closing the Browser 
+2015-06-15 08:55:00,346 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-15 08:56:47,051 INFO  [Log] **************************************************************************************** 
+2015-06-15 08:56:47,051 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-15 08:56:47,051 INFO  [Log] **************************************************************************************** 
+2015-06-15 08:56:47,051 INFO  [Log] Loading config properties file 
+2015-06-15 08:56:47,051 INFO  [Log] New driver instantiated 
+2015-06-15 08:56:58,222 INFO  [Log] Launching Browser 
+2015-06-15 08:56:58,222 INFO  [Log] Opening URL 
+2015-06-15 08:57:02,700 INFO  [Log] Maximizing Browser 
+2015-06-15 08:57:03,526 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-15 08:57:03,526 INFO  [Log] test_Logo: Test Logo 
+2015-06-15 08:57:03,605 INFO  [Log] test_Logo: Logo Present 
+2015-06-15 08:57:04,120 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-15 08:57:04,136 INFO  [Log] --------------test_Title START------------------ 
+2015-06-15 08:57:04,136 INFO  [Log] test_Title: Test Title 
+2015-06-15 08:57:05,024 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-15 08:57:05,198 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-15 08:57:05,213 INFO  [Log] Closing the Browser 
+2015-06-15 08:57:05,333 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-15 09:20:20,128 INFO  [Log] **************************************************************************************** 
+2015-06-15 09:20:20,128 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-15 09:20:20,129 INFO  [Log] **************************************************************************************** 
+2015-06-15 09:20:20,129 INFO  [Log] Loading config properties file 
+2015-06-15 09:20:20,129 INFO  [Log] New driver instantiated 
+2015-06-15 09:20:30,728 INFO  [Log] Launching Browser 
+2015-06-15 09:20:30,728 INFO  [Log] Opening URL 
+2015-06-15 09:20:35,814 INFO  [Log] Maximizing Browser 
+2015-06-15 09:20:36,477 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-15 09:20:36,477 INFO  [Log] test_Logo: Test Logo 
+2015-06-15 09:20:36,598 INFO  [Log] test_Logo: Logo Present 
+2015-06-15 09:20:37,257 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-15 09:20:37,258 INFO  [Log] --------------test_Title START------------------ 
+2015-06-15 09:20:37,258 INFO  [Log] test_Title: Test Title 
+2015-06-15 09:20:38,021 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-15 09:20:38,216 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-15 09:20:38,247 INFO  [Log] Closing the Browser 
+2015-06-15 09:20:39,986 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-15 09:29:17,948 INFO  [Log] **************************************************************************************** 
+2015-06-15 09:29:17,949 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-15 09:29:17,949 INFO  [Log] **************************************************************************************** 
+2015-06-15 09:29:17,949 INFO  [Log] Loading config properties file 
+2015-06-15 09:29:17,949 INFO  [Log] New driver instantiated 
+2015-06-15 09:29:24,964 INFO  [Log] Launching Browser 
+2015-06-15 09:29:24,964 INFO  [Log] Opening URL 
+2015-06-15 09:29:28,178 INFO  [Log] Maximizing Browser 
+2015-06-15 09:29:28,626 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-15 09:29:28,626 INFO  [Log] test_Logo: Test Logo 
+2015-06-15 09:29:28,747 INFO  [Log] test_Logo: Logo Present 
+2015-06-15 09:29:29,374 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-15 09:29:29,375 INFO  [Log] --------------test_Title START------------------ 
+2015-06-15 09:29:29,375 INFO  [Log] test_Title: Test Title 
+2015-06-15 09:29:29,669 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-15 09:29:29,877 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-15 09:29:29,894 INFO  [Log] Closing the Browser 
+2015-06-15 09:29:31,606 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-15 09:31:20,523 INFO  [Log] **************************************************************************************** 
+2015-06-15 09:31:20,523 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-15 09:31:20,523 INFO  [Log] **************************************************************************************** 
+2015-06-15 09:31:20,523 INFO  [Log] Loading config properties file 
+2015-06-15 09:31:20,523 INFO  [Log] New driver instantiated 
+2015-06-15 09:31:27,249 INFO  [Log] Launching Browser 
+2015-06-15 09:31:27,250 INFO  [Log] Opening URL 
+2015-06-15 09:31:30,263 INFO  [Log] Maximizing Browser 
+2015-06-15 09:31:30,824 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-15 09:31:30,824 INFO  [Log] test_Logo: Test Logo 
+2015-06-15 09:31:30,941 INFO  [Log] test_Logo: Logo Present 
+2015-06-15 09:31:31,504 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-15 09:31:31,505 INFO  [Log] --------------test_Title START------------------ 
+2015-06-15 09:31:31,505 INFO  [Log] test_Title: Test Title 
+2015-06-15 09:31:31,816 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-15 09:31:32,016 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-15 09:31:32,034 INFO  [Log] Closing the Browser 
+2015-06-15 09:31:33,811 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-15 11:05:33,136 INFO  [Log] **************************************************************************************** 
+2015-06-15 11:05:33,137 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-15 11:05:33,137 INFO  [Log] **************************************************************************************** 
+2015-06-15 11:05:33,137 INFO  [Log] Loading config properties file 
+2015-06-15 11:05:33,137 INFO  [Log] New driver instantiated 
+2015-06-15 11:05:39,475 INFO  [Log] Launching Browser 
+2015-06-15 11:05:39,475 INFO  [Log] Opening URL 
+2015-06-15 11:05:42,386 INFO  [Log] Maximizing Browser 
+2015-06-15 11:05:42,951 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-15 11:05:42,951 INFO  [Log] test_Logo: Test Logo 
+2015-06-15 11:05:43,071 INFO  [Log] test_Logo: Logo Present 
+2015-06-15 11:05:43,648 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-15 11:05:43,648 INFO  [Log] --------------test_Title START------------------ 
+2015-06-15 11:05:43,648 INFO  [Log] test_Title: Test Title 
+2015-06-15 11:05:44,899 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-15 11:05:45,090 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-15 11:05:45,105 INFO  [Log] Closing the Browser 
+2015-06-15 11:05:46,860 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-15 12:28:23,357 INFO  [Log] **************************************************************************************** 
+2015-06-15 12:28:23,357 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-15 12:28:23,357 INFO  [Log] **************************************************************************************** 
+2015-06-15 12:28:23,357 INFO  [Log] Loading config properties file 
+2015-06-15 12:28:23,357 INFO  [Log] New driver instantiated 
+2015-06-15 12:28:30,116 INFO  [Log] Launching Browser 
+2015-06-15 12:28:30,117 INFO  [Log] Opening URL 
+2015-06-15 12:28:33,359 INFO  [Log] Maximizing Browser 
+2015-06-15 12:28:33,891 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-15 12:28:33,891 INFO  [Log] test_Logo: Test Logo 
+2015-06-15 12:28:33,981 INFO  [Log] test_Logo: Logo Present 
+2015-06-15 12:28:34,545 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-15 12:28:34,546 INFO  [Log] --------------test_Title START------------------ 
+2015-06-15 12:28:34,546 INFO  [Log] test_Title: Test Title 
+2015-06-15 12:28:34,872 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-15 12:28:35,061 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-15 12:28:35,081 INFO  [Log] Closing the Browser 
+2015-06-15 12:28:35,252 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-16 07:09:12,848 INFO  [Log] **************************************************************************************** 
+2015-06-16 07:09:12,848 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-16 07:09:12,848 INFO  [Log] **************************************************************************************** 
+2015-06-16 07:09:12,848 INFO  [Log] Loading config properties file 
+2015-06-16 07:09:12,848 INFO  [Log] New driver instantiated 
+2015-06-16 07:09:20,973 INFO  [Log] Launching Browser 
+2015-06-16 07:09:20,973 INFO  [Log] Opening URL 
+2015-06-16 07:09:26,660 INFO  [Log] Maximizing Browser 
+2015-06-16 07:09:27,551 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-16 07:09:27,551 INFO  [Log] test_Logo: Test Logo 
+2015-06-16 07:09:27,707 INFO  [Log] test_Logo: Logo Present 
+2015-06-16 07:09:28,520 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-16 07:09:28,520 INFO  [Log] --------------test_Title START------------------ 
+2015-06-16 07:09:28,520 INFO  [Log] test_Title: Test Title 
+2015-06-16 07:09:32,848 INFO  [Log] test_Title: Element not found error 
+2015-06-16 07:09:32,848 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-16 07:09:32,879 INFO  [Log] Closing the Browser 
+2015-06-18 10:29:57,934 INFO  [Log] **************************************************************************************** 
+2015-06-18 10:29:57,934 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-18 10:29:57,934 INFO  [Log] **************************************************************************************** 
+2015-06-18 10:29:57,934 INFO  [Log] Loading config properties file 
+2015-06-18 10:29:57,934 INFO  [Log] New driver instantiated 
+2015-06-18 10:30:07,465 INFO  [Log] Launching Browser 
+2015-06-18 10:30:07,465 INFO  [Log] Opening URL 
+2015-06-18 10:30:17,488 INFO  [Log] Maximizing Browser 
+2015-06-18 10:30:18,540 INFO  [Log] --------------test_DownloadPDF START------------------ 
+2015-06-18 10:30:18,540 INFO  [Log] test_DownloadPDF: DownloadPDF 
+2015-06-18 10:30:18,724 INFO  [Log] test_DownloadPDF: Working Fine 
+2015-06-18 10:30:19,421 INFO  [Log] --------------test_DownloadPDF DONE------------------ 
+2015-06-18 10:30:19,422 INFO  [Log] --------------test_ExitCourseButton START------------------ 
+2015-06-18 10:30:19,422 INFO  [Log] test_ExitCourseButton: Test Close button 
+2015-06-18 10:30:21,724 INFO  [Log] test_ExitCourseButton: Close working Fine 
+2015-06-18 10:30:21,724 INFO  [Log] --------------test_ExitCourseButton DONE------------------ 
+2015-06-18 10:30:21,726 INFO  [Log] --------------test_GlossaryLink START------------------ 
+2015-06-18 10:30:21,726 INFO  [Log] test_GlossaryLink: Test Glossary 
+2015-06-18 10:30:22,410 INFO  [Log] test_GlossaryLink: Glossary is working fine 
+2015-06-18 10:30:22,474 INFO  [Log] --------------test_GlossaryLink DONE------------------ 
+2015-06-18 10:30:22,475 INFO  [Log] --------------test_HelpLink START------------------ 
+2015-06-18 10:30:22,476 INFO  [Log] test_HelpLink: Test Help button 
+2015-06-18 10:30:23,099 INFO  [Log] test_HelpLink: Help working fine 
+2015-06-18 10:30:23,150 INFO  [Log] --------------test_HelpLink DONE------------------ 
+2015-06-18 10:30:23,202 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-18 10:30:23,202 INFO  [Log] test_Logo: Test Logo 
+2015-06-18 10:30:23,253 INFO  [Log] test_Logo: Logo Present 
+2015-06-18 10:30:23,299 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-18 10:30:23,300 INFO  [Log] --------------test_Title START------------------ 
+2015-06-18 10:30:23,300 INFO  [Log] test_Title: Test Title 
+2015-06-18 10:30:23,635 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-18 10:30:23,714 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-18 10:30:23,753 INFO  [Log] --------------test_NextPageButton START------------------ 
+2015-06-18 10:30:23,753 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 10:30:23,821 INFO  [Log] test_PreviousPageButton: Element Present 
+2015-06-18 10:30:24,078 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 10:30:24,334 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 10:30:24,589 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 10:30:24,870 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 10:30:25,053 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 10:30:25,335 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 10:30:25,591 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 10:30:25,847 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 10:30:26,103 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 10:30:26,357 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 10:30:26,569 INFO  [Log] --------------test_NextPageButton DONE------------------ 
+2015-06-18 10:30:26,570 INFO  [Log] --------------test_PreviousPageButton START------------------ 
+2015-06-18 10:30:26,714 INFO  [Log] test_PreviousPageButton: Element present 
+2015-06-18 10:30:26,714 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 10:30:26,970 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 10:30:27,227 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 10:30:27,484 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 10:30:27,738 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 10:30:27,996 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 10:30:28,252 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 10:30:28,509 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 10:30:28,765 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 10:30:29,026 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 10:30:29,282 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 10:30:29,493 INFO  [Log] --------------test_PreviousPageButton DONE------------------ 
+2015-06-18 10:30:29,494 INFO  [Log] --------------test_RefreshPageButton START------------------ 
+2015-06-18 10:30:29,909 INFO  [Log] test_RefreshPageButton: Element present 
+2015-06-18 10:30:29,909 INFO  [Log] test_RefreshPageButton: Clicking Refresh Button 
+2015-06-18 10:30:30,224 INFO  [Log] test_RefreshPageButton: Page Refreshed  
+2015-06-18 10:30:30,224 INFO  [Log] --------------test_RefreshPageButton DONE------------------ 
+2015-06-18 10:30:30,236 INFO  [Log] --------------test_CapabilitiesOfCRM START------------------ 
+2015-06-18 10:30:30,236 INFO  [Log] test_CapabilitiesOfCRM: Clicking on Capabilities of CRM button 
+2015-06-18 10:30:30,318 INFO  [Log] Capabilities_of_CRM: Element Present 
+2015-06-18 10:30:30,633 INFO  [Log] ---------------Validating CSS-------------- 
+2015-06-18 10:30:30,685 INFO  [Log] CSS Validation: Color code PASS 
+2015-06-18 10:30:30,736 INFO  [Log] CSS Validation: display PASS 
+2015-06-18 10:30:30,787 INFO  [Log] CSS Validation: font-size PASS 
+2015-06-18 10:30:30,839 INFO  [Log] CSS Validation: height PASS 
+2015-06-18 10:30:30,890 INFO  [Log] CSS Validation: width PASS 
+2015-06-18 10:30:30,942 INFO  [Log] CSS Validation: cursor PASS 
+2015-06-18 10:30:30,993 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-06-18 10:30:31,070 INFO  [Log] CSS Validation: font-family PASS 
+2015-06-18 10:30:31,121 INFO  [Log] CSS Validation: font-style PASS 
+2015-06-18 10:30:31,173 INFO  [Log] CSS Validation: font-weight PASS 
+2015-06-18 10:30:31,173 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-06-18 10:30:31,173 INFO  [Log] test_CapabilitiesOfCRM: Switch Frame 
+2015-06-18 10:30:31,456 INFO  [Log] Clicking on 1st image 
+2015-06-18 10:30:34,101 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 2nd image 
+2015-06-18 10:30:34,565 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 3rd image 
+2015-06-18 10:30:35,055 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 4th image 
+2015-06-18 10:30:35,493 INFO  [Log] test_CapabilitiesOfCRM: Switch to Default Frame 
+2015-06-18 10:30:35,597 INFO  [Log] --------------test_CapabilitiesOfCRM DONE------------------ 
+2015-06-18 10:30:35,598 INFO  [Log] --------------test_FrontEndAndBackendFunctions START------------------ 
+2015-06-18 10:30:35,598 INFO  [Log] test_FrontEndAndBackendFunctions: Clicking on Capabilities of CRM button 
+2015-06-18 10:30:35,677 INFO  [Log] test_FrontEndAndBackendFunctions: Element Present 
+2015-06-18 10:30:35,979 INFO  [Log] ---------------Validating CSS-------------- 
+2015-06-18 10:30:36,030 INFO  [Log] CSS Validation: Color code PASS 
+2015-06-18 10:30:36,082 INFO  [Log] CSS Validation: display PASS 
+2015-06-18 10:30:36,133 INFO  [Log] CSS Validation: font-size PASS 
+2015-06-18 10:30:36,184 INFO  [Log] CSS Validation: height PASS 
+2015-06-18 10:30:36,222 INFO  [Log] CSS Validation: width PASS 
+2015-06-18 10:30:36,298 INFO  [Log] CSS Validation: cursor PASS 
+2015-06-18 10:30:36,349 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-06-18 10:30:36,400 INFO  [Log] CSS Validation: font-family PASS 
+2015-06-18 10:30:36,476 INFO  [Log] CSS Validation: font-style PASS 
+2015-06-18 10:30:36,527 INFO  [Log] CSS Validation: font-weight PASS 
+2015-06-18 10:30:36,527 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-06-18 10:30:36,527 INFO  [Log] test_FrontEndAndBackendFunctions: Switch Frame 
+2015-06-18 10:30:36,618 INFO  [Log] test_FrontEndAndBackendFunctions: Validating image present or not 
+2015-06-18 10:30:38,196 INFO  [Log] test_FrontEndAndBackendFunctions: Validating present 
+2015-06-18 10:30:38,196 INFO  [Log] test_FrontEndAndBackendFunctions: Switch to Default Frame 
+2015-06-18 10:30:38,278 INFO  [Log] --------------test_FrontEndAndBackendFunctions DONE------------------ 
+2015-06-18 10:30:38,279 INFO  [Log] --------------test_PrinciplesOfCRM START------------------ 
+2015-06-18 10:30:38,279 INFO  [Log] test_PrinciplesOfCRM: Clicking on Principles of CRM button 
+2015-06-18 10:30:38,358 INFO  [Log] test_PrinciplesOfCRM: Element Present 
+2015-06-18 10:30:38,427 INFO  [Log] ---------------Validating CSS-------------- 
+2015-06-18 10:30:38,479 INFO  [Log] CSS Validation: Color code FAIL 
+2015-06-18 10:30:38,479 INFO  [Log] CSS Validation: Color code should be #af5200 
+2015-06-18 10:30:38,530 INFO  [Log] CSS Validation: display PASS 
+2015-06-18 10:30:38,581 INFO  [Log] CSS Validation: font-size PASS 
+2015-06-18 10:30:38,632 INFO  [Log] CSS Validation: height PASS 
+2015-06-18 10:30:38,683 INFO  [Log] CSS Validation: width PASS 
+2015-06-18 10:30:38,734 INFO  [Log] CSS Validation: cursor FAIL 
+2015-06-18 10:30:38,734 INFO  [Log] CSS Validation: cursor should be text 
+2015-06-18 10:30:38,785 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-06-18 10:30:38,836 INFO  [Log] CSS Validation: font-family PASS 
+2015-06-18 10:30:38,888 INFO  [Log] CSS Validation: font-style PASS 
+2015-06-18 10:30:38,939 INFO  [Log] CSS Validation: font-weight PASS 
+2015-06-18 10:30:38,939 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-06-18 10:30:39,118 INFO  [Log] test_PrinciplesOfCRM: Switch Frame 
+2015-06-18 10:30:40,478 INFO  [Log] Clicking Img 
+2015-06-18 10:30:40,787 INFO  [Log] test_PrinciplesOfCRM: Click on resized image 
+2015-06-18 10:30:41,306 INFO  [Log] test_PrinciplesOfCRM: Clicking Img 
+2015-06-18 10:30:41,639 INFO  [Log] test_PrinciplesOfCRM: Click on resized image 
+2015-06-18 10:30:42,128 INFO  [Log] test_PrinciplesOfCRM: Switch to Default Frame 
+2015-06-18 10:30:42,206 INFO  [Log] --------------test_PrinciplesOfCRM DONE------------------ 
+2015-06-18 10:30:42,207 INFO  [Log] --------------test_eTOMAssessment1 START------------------ 
+2015-06-18 10:30:42,207 INFO  [Log] test_eTOMAssessment1: Clicking on 1st Assignment 
+2015-06-18 10:30:42,285 INFO  [Log] test_eTOMAssessment1: Element Present 
+2015-06-18 10:30:42,610 INFO  [Log] ---------------Validating CSS-------------- 
+2015-06-18 10:30:42,661 INFO  [Log] CSS Validation: Color code PASS 
+2015-06-18 10:30:42,738 INFO  [Log] CSS Validation: display PASS 
+2015-06-18 10:30:42,815 INFO  [Log] CSS Validation: font-size PASS 
+2015-06-18 10:30:42,884 INFO  [Log] CSS Validation: height PASS 
+2015-06-18 10:30:42,961 INFO  [Log] CSS Validation: width PASS 
+2015-06-18 10:30:43,038 INFO  [Log] CSS Validation: cursor PASS 
+2015-06-18 10:30:43,090 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-06-18 10:30:43,166 INFO  [Log] CSS Validation: font-family PASS 
+2015-06-18 10:30:43,242 INFO  [Log] CSS Validation: font-style PASS 
+2015-06-18 10:30:43,293 INFO  [Log] CSS Validation: font-weight PASS 
+2015-06-18 10:30:43,293 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-06-18 10:30:43,293 INFO  [Log] test_eTOMAssessment1: Switch Frame 
+2015-06-18 10:30:43,396 INFO  [Log] test_eTOMAssessment1: Clicking Submit 
+2015-06-18 10:30:46,061 INFO  [Log] test_eTOMAssessment1: Clicking Retry 
+2015-06-18 10:30:46,657 INFO  [Log] Moving button 
+2015-06-18 10:30:48,878 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-06-18 10:30:49,090 INFO  [Log] Moving button 
+2015-06-18 10:30:51,306 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-06-18 10:30:51,541 INFO  [Log] Moving button 
+2015-06-18 10:30:53,681 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-06-18 10:30:53,838 INFO  [Log] Moving button 
+2015-06-18 10:30:56,078 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-06-18 10:30:56,369 INFO  [Log] test_eTOMAssessment1: Clicking Submit 
+2015-06-18 10:30:56,599 INFO  [Log] test_eTOMAssessment1: Switch to Default Frame 
+2015-06-18 10:30:57,313 INFO  [Log] --------------test_eTOMAssessment1 DONE------------------ 
+2015-06-18 10:30:57,314 INFO  [Log] --------------test_eTOMAssessment2 START------------------ 
+2015-06-18 10:30:57,314 INFO  [Log] test_eTOMAssessment2: Clicking on 2nd Assignment 
+2015-06-18 10:30:59,462 INFO  [Log] test_eTOMAssessment1: Element not found 
+2015-06-18 10:31:03,595 INFO  [Log] ---------------Validating CSS-------------- 
+2015-06-18 10:31:03,646 INFO  [Log] CSS Validation: Color code PASS 
+2015-06-18 10:31:03,724 INFO  [Log] CSS Validation: display PASS 
+2015-06-18 10:31:03,800 INFO  [Log] CSS Validation: font-size PASS 
+2015-06-18 10:31:03,866 INFO  [Log] CSS Validation: height PASS 
+2015-06-18 10:31:03,943 INFO  [Log] CSS Validation: width PASS 
+2015-06-18 10:31:04,019 INFO  [Log] CSS Validation: cursor PASS 
+2015-06-18 10:31:04,096 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-06-18 10:31:04,174 INFO  [Log] CSS Validation: font-family PASS 
+2015-06-18 10:31:04,250 INFO  [Log] CSS Validation: font-style PASS 
+2015-06-18 10:31:04,320 INFO  [Log] CSS Validation: font-weight PASS 
+2015-06-18 10:31:04,320 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-06-18 10:31:04,320 INFO  [Log] test_eTOMAssessment2: Switch Frame 
+2015-06-18 10:31:04,731 INFO  [Log] test_eTOMAssessment2: Option 2 checked 
+2015-06-18 10:31:05,358 INFO  [Log] test_eTOMAssessment2: Option 3 checked 
+2015-06-18 10:31:05,986 INFO  [Log] test_eTOMAssessment2: Option 4 checked 
+2015-06-18 10:31:06,192 INFO  [Log] test_eTOMAssessment2: Option 5 checked 
+2015-06-18 10:31:06,397 INFO  [Log] test_eTOMAssessment2: Option 6 checked 
+2015-06-18 10:31:06,760 INFO  [Log] test_eTOMAssessment2: Option 2 unchecked 
+2015-06-18 10:31:06,938 INFO  [Log] test_eTOMAssessment2: Option 3 unchecked 
+2015-06-18 10:31:07,117 INFO  [Log] test_eTOMAssessment2: Option 3 unchecked 
+2015-06-18 10:31:07,296 INFO  [Log] test_eTOMAssessment2: Option 4 unchecked 
+2015-06-18 10:31:07,474 INFO  [Log] test_eTOMAssessment2: Option 5 unchecked 
+2015-06-18 10:31:07,891 INFO  [Log] test_eTOMAssessment2: Clicking Submit 
+2015-06-18 10:31:08,132 INFO  [Log] test_eTOMAssessment2: Switch to Default Frame 
+2015-06-18 10:31:08,427 INFO  [Log] --------------test_eTOMAssessment2 DONE------------------ 
+2015-06-18 10:31:08,459 INFO  [Log] --------------testHover START------------------ 
+2015-06-18 10:31:08,460 INFO  [Log] testHover: Checking Hover 
+2015-06-18 10:31:08,614 INFO  [Log] testHover: Color of element after hover: #af5200 
+2015-06-18 10:31:08,986 INFO  [Log] --------------testHover DONE------------------ 
+2015-06-18 10:31:08,997 INFO  [Log] --------------test_checkUncheckLeftPanel START------------------ 
+2015-06-18 10:31:08,997 INFO  [Log] getting details of visited, unvisited and current item under Left Panel 
+2015-06-18 10:31:09,201 INFO  [Log] test_checkUncheckLeftPanel: Principles of CRM : item visited result code:  
+2015-06-18 10:31:09,356 INFO  [Log] test_checkUncheckLeftPanel: Capabilities of CRM : item visited result code:  
+2015-06-18 10:31:09,497 INFO  [Log] test_checkUncheckLeftPanel: Front-end and Backend functions : item visited result code:  
+2015-06-18 10:31:09,622 INFO  [Log] test_checkUncheckLeftPanel: eTOM Assessment 1 : item visited result code:  
+2015-06-18 10:31:09,738 INFO  [Log] test_checkUncheckLeftPanel: eTOM Assessment 2 : item selected result code:  
+2015-06-18 10:31:09,871 INFO  [Log] test_checkUncheckLeftPanel: CRM process flow : item visited result code:  
+2015-06-18 10:31:09,977 INFO  [Log] test_checkUncheckLeftPanel: Order Tracking and real-time checks : item visited result code:  
+2015-06-18 10:31:10,096 INFO  [Log] test_checkUncheckLeftPanel: Fulfillment visibility : item visited result code:  
+2015-06-18 10:31:10,212 INFO  [Log] test_checkUncheckLeftPanel: Billing Management : item visited result code:  
+2015-06-18 10:31:10,331 INFO  [Log] test_checkUncheckLeftPanel: Customer Support : item visited result code:  
+2015-06-18 10:31:10,449 INFO  [Log] test_checkUncheckLeftPanel: Role of Workflow : item visited result code:  
+2015-06-18 10:31:10,575 INFO  [Log] test_checkUncheckLeftPanel: CRM products and Market : item visited result code:  
+2015-06-18 10:31:10,658 INFO  [Log] --------------test_checkUncheckLeftPanel DONE------------------ 
+2015-06-18 10:31:10,691 INFO  [Log] Closing the Browser 
+2015-06-18 10:31:12,420 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-06-18 11:39:47,673 INFO  [Log] **************************************************************************************** 
+2015-06-18 11:39:47,673 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-18 11:39:47,673 INFO  [Log] **************************************************************************************** 
+2015-06-18 11:39:47,673 INFO  [Log] Loading config properties file 
+2015-06-18 11:39:47,673 INFO  [Log] New driver instantiated 
+2015-06-18 11:39:58,455 INFO  [Log] Launching Browser 
+2015-06-18 11:39:58,455 INFO  [Log] Opening URL 
+2015-06-18 11:40:02,017 INFO  [Log] Maximizing Browser 
+2015-06-18 11:40:02,580 INFO  [Log] --------------test_NextPageButton START------------------ 
+2015-06-18 11:40:02,580 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 11:40:03,236 INFO  [Log] test_PreviousPageButton: Element Present 
+2015-06-18 11:40:03,580 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 11:40:03,892 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 11:40:04,236 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 11:40:04,517 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 11:40:04,705 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 11:40:05,017 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 11:40:05,298 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 11:40:05,580 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 11:40:05,861 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 11:40:06,142 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-06-18 11:40:06,423 INFO  [Log] --------------test_NextPageButton DONE------------------ 
+2015-06-18 11:40:06,423 INFO  [Log] --------------test_PreviousPageButton START------------------ 
+2015-06-18 11:40:06,611 INFO  [Log] test_PreviousPageButton: Element present 
+2015-06-18 11:40:06,611 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 11:40:06,939 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 11:40:07,220 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 11:40:07,502 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 11:40:07,814 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 11:40:08,095 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 11:40:08,408 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 11:40:08,689 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 11:40:08,970 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 11:40:09,252 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 11:40:09,533 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-06-18 11:40:09,814 INFO  [Log] --------------test_PreviousPageButton DONE------------------ 
+2015-06-18 11:40:09,814 INFO  [Log] --------------test_RefreshPageButton START------------------ 
+2015-06-18 11:40:09,986 INFO  [Log] test_RefreshPageButton: Element present 
+2015-06-18 11:40:09,986 INFO  [Log] test_RefreshPageButton: Clicking Refresh Button 
+2015-06-18 11:40:10,314 INFO  [Log] test_RefreshPageButton: Page Refreshed  
+2015-06-18 11:40:10,314 INFO  [Log] --------------test_RefreshPageButton DONE------------------ 
+2015-06-18 11:40:10,314 INFO  [Log] --------------test_Logo START------------------ 
+2015-06-18 11:40:10,314 INFO  [Log] test_Logo: Test Logo 
+2015-06-18 11:40:10,377 INFO  [Log] test_Logo: Logo Present 
+2015-06-18 11:40:10,423 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-06-18 11:40:10,423 INFO  [Log] --------------test_Title START------------------ 
+2015-06-18 11:40:10,423 INFO  [Log] test_Title: Test Title 
+2015-06-18 11:40:10,720 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-06-18 11:40:10,798 INFO  [Log] --------------test_Title DONE------------------ 
+2015-06-18 11:40:10,798 INFO  [Log] --------------test_DownloadPDF START------------------ 
+2015-06-18 11:40:10,798 INFO  [Log] test_DownloadPDF: DownloadPDF 
+2015-06-18 11:40:10,986 INFO  [Log] test_DownloadPDF: Working Fine 
+2015-06-18 11:40:11,017 INFO  [Log] --------------test_DownloadPDF DONE------------------ 
+2015-06-18 11:40:11,017 INFO  [Log] --------------test_ExitCourseButton START------------------ 
+2015-06-18 11:40:11,017 INFO  [Log] test_ExitCourseButton: Test Close button 
+2015-06-18 11:40:13,548 INFO  [Log] test_ExitCourseButton: Close working Fine 
+2015-06-18 11:40:13,548 INFO  [Log] --------------test_ExitCourseButton DONE------------------ 
+2015-06-18 11:40:13,548 INFO  [Log] --------------test_GlossaryLink START------------------ 
+2015-06-18 11:40:13,548 INFO  [Log] test_GlossaryLink: Test Glossary 
+2015-06-18 11:40:14,236 INFO  [Log] test_GlossaryLink: Glossary is working fine 
+2015-06-18 11:40:14,267 INFO  [Log] --------------test_GlossaryLink DONE------------------ 
+2015-06-18 11:40:14,267 INFO  [Log] --------------test_HelpLink START------------------ 
+2015-06-18 11:40:14,267 INFO  [Log] test_HelpLink: Test Help button 
+2015-06-18 11:40:14,921 INFO  [Log] test_HelpLink: Help working fine 
+2015-06-18 11:40:14,952 INFO  [Log] --------------test_HelpLink DONE------------------ 
+2015-06-18 11:40:14,952 INFO  [Log] --------------test_CapabilitiesOfCRM START------------------ 
+2015-06-18 11:40:14,952 INFO  [Log] test_CapabilitiesOfCRM: Clicking on Capabilities of CRM button 
+2015-06-18 11:40:15,030 INFO  [Log] Capabilities_of_CRM: Element Present 
+2015-06-18 11:40:15,390 INFO  [Log] ---------------Validating CSS-------------- 
+2015-06-18 11:40:15,461 INFO  [Log] CSS Validation: Color code PASS 
+2015-06-18 11:40:15,523 INFO  [Log] CSS Validation: display PASS 
+2015-06-18 11:40:15,586 INFO  [Log] CSS Validation: font-size PASS 
+2015-06-18 11:40:15,648 INFO  [Log] CSS Validation: height PASS 
+2015-06-18 11:40:15,726 INFO  [Log] CSS Validation: width PASS 
+2015-06-18 11:40:15,789 INFO  [Log] CSS Validation: cursor PASS 
+2015-06-18 11:40:15,851 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-06-18 11:40:15,914 INFO  [Log] CSS Validation: font-family PASS 
+2015-06-18 11:40:16,008 INFO  [Log] CSS Validation: font-style PASS 
+2015-06-18 11:40:16,101 INFO  [Log] CSS Validation: font-weight PASS 
+2015-06-18 11:40:16,101 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-06-18 11:40:16,101 INFO  [Log] test_CapabilitiesOfCRM: Switch Frame 
+2015-06-18 11:40:16,789 INFO  [Log] Clicking on 1st image 
+2015-06-18 11:40:17,758 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 2nd image 
+2015-06-18 11:40:18,320 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 3rd image 
+2015-06-18 11:40:18,820 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 4th image 
+2015-06-18 11:40:19,289 INFO  [Log] test_CapabilitiesOfCRM: Switch to Default Frame 
+2015-06-18 11:40:19,367 INFO  [Log] --------------test_CapabilitiesOfCRM DONE------------------ 
+2015-06-18 11:40:19,367 INFO  [Log] --------------test_FrontEndAndBackendFunctions START------------------ 
+2015-06-18 11:40:19,367 INFO  [Log] test_FrontEndAndBackendFunctions: Clicking on Capabilities of CRM button 
+2015-06-18 11:40:19,445 INFO  [Log] test_FrontEndAndBackendFunctions: Element Present 
+2015-06-18 11:40:19,781 INFO  [Log] ---------------Validating CSS-------------- 
+2015-06-18 11:40:19,844 INFO  [Log] CSS Validation: Color code PASS 
+2015-06-18 11:40:19,907 INFO  [Log] CSS Validation: display PASS 
+2015-06-18 11:40:19,969 INFO  [Log] CSS Validation: font-size PASS 
+2015-06-18 11:40:20,032 INFO  [Log] CSS Validation: height PASS 
+2015-06-18 11:40:20,094 INFO  [Log] CSS Validation: width PASS 
+2015-06-18 11:40:20,188 INFO  [Log] CSS Validation: cursor PASS 
+2015-06-18 11:40:20,250 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-06-18 11:40:20,313 INFO  [Log] CSS Validation: font-family PASS 
+2015-06-18 11:40:20,375 INFO  [Log] CSS Validation: font-style PASS 
+2015-06-18 11:40:20,438 INFO  [Log] CSS Validation: font-weight PASS 
+2015-06-18 11:40:20,438 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-06-18 11:40:20,438 INFO  [Log] test_FrontEndAndBackendFunctions: Switch Frame 
+2015-06-18 11:40:20,547 INFO  [Log] test_FrontEndAndBackendFunctions: Validating image present or not 
+2015-06-18 11:40:22,047 INFO  [Log] test_FrontEndAndBackendFunctions: Validating present 
+2015-06-18 11:40:22,047 INFO  [Log] test_FrontEndAndBackendFunctions: Switch to Default Frame 
+2015-06-18 11:40:22,125 INFO  [Log] --------------test_FrontEndAndBackendFunctions DONE------------------ 
+2015-06-18 11:40:22,125 INFO  [Log] --------------test_PrinciplesOfCRM START------------------ 
+2015-06-18 11:40:22,125 INFO  [Log] test_PrinciplesOfCRM: Clicking on Principles of CRM button 
+2015-06-18 11:40:22,172 INFO  [Log] test_PrinciplesOfCRM: Element Present 
+2015-06-18 11:40:22,252 INFO  [Log] ---------------Validating CSS-------------- 
+2015-06-18 11:40:22,316 INFO  [Log] CSS Validation: Color code FAIL 
+2015-06-18 11:40:22,316 INFO  [Log] CSS Validation: Color code should be #af5200 
+2015-06-18 11:40:22,378 INFO  [Log] CSS Validation: display PASS 
+2015-06-18 11:40:22,441 INFO  [Log] CSS Validation: font-size PASS 
+2015-06-18 11:40:22,503 INFO  [Log] CSS Validation: height PASS 
+2015-06-18 11:40:22,566 INFO  [Log] CSS Validation: width PASS 
+2015-06-18 11:40:22,628 INFO  [Log] CSS Validation: cursor FAIL 
+2015-06-18 11:40:22,628 INFO  [Log] CSS Validation: cursor should be text 
+2015-06-18 11:40:22,691 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-06-18 11:40:22,753 INFO  [Log] CSS Validation: font-family PASS 
+2015-06-18 11:40:22,816 INFO  [Log] CSS Validation: font-style PASS 
+2015-06-18 11:40:22,878 INFO  [Log] CSS Validation: font-weight PASS 
+2015-06-18 11:40:22,878 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-06-18 11:40:23,097 INFO  [Log] test_PrinciplesOfCRM: Switch Frame 
+2015-06-18 11:40:24,097 INFO  [Log] Clicking Img 
+2015-06-18 11:40:24,503 INFO  [Log] test_PrinciplesOfCRM: Click on resized image 
+2015-06-18 11:40:25,066 INFO  [Log] test_PrinciplesOfCRM: Clicking Img 
+2015-06-18 11:40:25,472 INFO  [Log] test_PrinciplesOfCRM: Click on resized image 
+2015-06-18 11:40:26,035 INFO  [Log] test_PrinciplesOfCRM: Switch to Default Frame 
+2015-06-18 11:40:26,113 INFO  [Log] --------------test_PrinciplesOfCRM DONE------------------ 
+2015-06-18 11:40:26,113 INFO  [Log] --------------test_eTOMAssessment1 START------------------ 
+2015-06-18 11:40:26,113 INFO  [Log] test_eTOMAssessment1: Clicking on 1st Assignment 
+2015-06-18 11:40:26,191 INFO  [Log] test_eTOMAssessment1: Element Present 
+2015-06-18 11:40:26,523 INFO  [Log] ---------------Validating CSS-------------- 
+2015-06-18 11:40:26,587 INFO  [Log] CSS Validation: Color code PASS 
+2015-06-18 11:40:26,650 INFO  [Log] CSS Validation: display PASS 
+2015-06-18 11:40:26,712 INFO  [Log] CSS Validation: font-size PASS 
+2015-06-18 11:40:26,806 INFO  [Log] CSS Validation: height PASS 
+2015-06-18 11:40:26,900 INFO  [Log] CSS Validation: width PASS 
+2015-06-18 11:40:26,994 INFO  [Log] CSS Validation: cursor PASS 
+2015-06-18 11:40:27,056 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-06-18 11:40:27,119 INFO  [Log] CSS Validation: font-family PASS 
+2015-06-18 11:40:27,181 INFO  [Log] CSS Validation: font-style PASS 
+2015-06-18 11:40:27,244 INFO  [Log] CSS Validation: font-weight PASS 
+2015-06-18 11:40:27,244 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-06-18 11:40:27,244 INFO  [Log] test_eTOMAssessment1: Switch Frame 
+2015-06-18 11:40:27,541 INFO  [Log] test_eTOMAssessment1: Clicking Submit 
+2015-06-18 11:40:29,619 INFO  [Log] test_eTOMAssessment1: Clicking Retry 
+2015-06-18 11:40:30,259 INFO  [Log] Moving button 
+2015-06-18 11:40:32,509 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-06-18 11:40:32,728 INFO  [Log] Moving button 
+2015-06-18 11:40:34,947 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-06-18 11:40:35,166 INFO  [Log] Moving button 
+2015-06-18 11:40:37,509 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-06-18 11:40:37,759 INFO  [Log] Moving button 
+2015-06-18 11:40:40,009 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-06-18 11:40:40,353 INFO  [Log] test_eTOMAssessment1: Clicking Submit 
+2015-06-18 11:40:40,572 INFO  [Log] test_eTOMAssessment1: Switch to Default Frame 
+2015-06-18 11:40:41,353 INFO  [Log] --------------test_eTOMAssessment1 DONE------------------ 
+2015-06-18 11:40:41,353 INFO  [Log] --------------test_eTOMAssessment2 START------------------ 
+2015-06-18 11:40:41,353 INFO  [Log] test_eTOMAssessment2: Clicking on 2nd Assignment 
+2015-06-18 11:40:41,431 INFO  [Log] test_eTOMAssessment1: Element Present 
+2015-06-18 11:40:41,761 INFO  [Log] ---------------Validating CSS-------------- 
+2015-06-18 11:40:41,825 INFO  [Log] CSS Validation: Color code PASS 
+2015-06-18 11:40:41,887 INFO  [Log] CSS Validation: display PASS 
+2015-06-18 11:40:41,950 INFO  [Log] CSS Validation: font-size PASS 
+2015-06-18 11:40:42,028 INFO  [Log] CSS Validation: height PASS 
+2015-06-18 11:40:42,091 INFO  [Log] CSS Validation: width PASS 
+2015-06-18 11:40:42,153 INFO  [Log] CSS Validation: cursor PASS 
+2015-06-18 11:40:42,216 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-06-18 11:40:42,278 INFO  [Log] CSS Validation: font-family PASS 
+2015-06-18 11:40:42,341 INFO  [Log] CSS Validation: font-style PASS 
+2015-06-18 11:40:42,403 INFO  [Log] CSS Validation: font-weight PASS 
+2015-06-18 11:40:42,403 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-06-18 11:40:42,403 INFO  [Log] test_eTOMAssessment2: Switch Frame 
+2015-06-18 11:40:42,762 INFO  [Log] test_eTOMAssessment2: Option 2 checked 
+2015-06-18 11:40:43,434 INFO  [Log] test_eTOMAssessment2: Option 3 checked 
+2015-06-18 11:40:43,966 INFO  [Log] test_eTOMAssessment2: Option 4 checked 
+2015-06-18 11:40:44,153 INFO  [Log] test_eTOMAssessment2: Option 5 checked 
+2015-06-18 11:40:44,341 INFO  [Log] test_eTOMAssessment2: Option 6 checked 
+2015-06-18 11:40:44,716 INFO  [Log] test_eTOMAssessment2: Option 2 unchecked 
+2015-06-18 11:40:44,966 INFO  [Log] test_eTOMAssessment2: Option 3 unchecked 
+2015-06-18 11:40:45,153 INFO  [Log] test_eTOMAssessment2: Option 3 unchecked 
+2015-06-18 11:40:45,434 INFO  [Log] test_eTOMAssessment2: Option 4 unchecked 
+2015-06-18 11:40:45,622 INFO  [Log] test_eTOMAssessment2: Option 5 unchecked 
+2015-06-18 11:40:46,075 INFO  [Log] test_eTOMAssessment2: Clicking Submit 
+2015-06-18 11:40:46,294 INFO  [Log] test_eTOMAssessment2: Switch to Default Frame 
+2015-06-18 11:40:46,622 INFO  [Log] --------------test_eTOMAssessment2 DONE------------------ 
+2015-06-18 11:40:46,622 INFO  [Log] --------------test_checkUncheckLeftPanel START------------------ 
+2015-06-18 11:40:46,622 INFO  [Log] getting details of visited, unvisited and current item under Left Panel 
+2015-06-18 11:40:46,809 INFO  [Log] test_checkUncheckLeftPanel: Principles of CRM : item visited result code:  
+2015-06-18 11:40:46,934 INFO  [Log] test_checkUncheckLeftPanel: Capabilities of CRM : item visited result code:  
+2015-06-18 11:40:47,059 INFO  [Log] test_checkUncheckLeftPanel: Front-end and Backend functions : item visited result code:  
+2015-06-18 11:40:47,184 INFO  [Log] test_checkUncheckLeftPanel: eTOM Assessment 1 : item visited result code:  
+2015-06-18 11:40:47,309 INFO  [Log] test_checkUncheckLeftPanel: eTOM Assessment 2 : item selected result code:  
+2015-06-18 11:40:47,434 INFO  [Log] test_checkUncheckLeftPanel: CRM process flow : item visited result code:  
+2015-06-18 11:40:47,559 INFO  [Log] test_checkUncheckLeftPanel: Order Tracking and real-time checks : item visited result code:  
+2015-06-18 11:40:47,684 INFO  [Log] test_checkUncheckLeftPanel: Fulfillment visibility : item visited result code:  
+2015-06-18 11:40:47,809 INFO  [Log] test_checkUncheckLeftPanel: Billing Management : item visited result code:  
+2015-06-18 11:40:47,934 INFO  [Log] test_checkUncheckLeftPanel: Customer Support : item visited result code:  
+2015-06-18 11:40:48,059 INFO  [Log] test_checkUncheckLeftPanel: Role of Workflow : item visited result code:  
+2015-06-18 11:40:48,184 INFO  [Log] test_checkUncheckLeftPanel: CRM products and Market : item visited result code:  
+2015-06-18 11:40:48,262 INFO  [Log] --------------test_checkUncheckLeftPanel DONE------------------ 
+2015-06-18 11:40:48,262 INFO  [Log] --------------testHover START------------------ 
+2015-06-18 11:40:48,262 INFO  [Log] testHover: Checking Hover 
+2015-06-18 11:40:48,450 INFO  [Log] testHover: Color of element after hover: #af5200 
+2015-06-18 11:40:48,841 INFO  [Log] --------------testHover DONE------------------ 
+2015-06-18 11:40:48,913 INFO  [Log] Closing the Browser 
+2015-06-18 11:40:50,648 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-07-02 11:10:10,239 INFO  [Log] **************************************************************************************** 
+2015-07-02 11:10:10,239 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 EtiamWorldTesting       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-07-02 11:10:10,239 INFO  [Log] **************************************************************************************** 
+2015-07-02 11:10:10,239 INFO  [Log] Loading config properties file 
+2015-07-02 11:10:10,239 INFO  [Log] New driver instantiated 
+2015-07-02 11:10:23,966 INFO  [Log] Launching Browser 
+2015-07-02 11:10:23,966 INFO  [Log] Opening URL 
+2015-07-02 11:10:33,181 INFO  [Log] Maximizing Browser 
+2015-07-02 11:10:34,472 INFO  [Log] --------------test_DownloadPDF START------------------ 
+2015-07-02 11:10:34,472 INFO  [Log] test_DownloadPDF: DownloadPDF 
+2015-07-02 11:10:34,692 INFO  [Log] test_DownloadPDF: Working Fine 
+2015-07-02 11:10:35,672 INFO  [Log] --------------test_DownloadPDF DONE------------------ 
+2015-07-02 11:10:35,672 INFO  [Log] --------------test_ExitCourseButton START------------------ 
+2015-07-02 11:10:35,672 INFO  [Log] test_ExitCourseButton: Test Close button 
+2015-07-02 11:10:39,978 INFO  [Log] test_ExitCourseButton: Close working Fine 
+2015-07-02 11:10:39,978 INFO  [Log] --------------test_ExitCourseButton DONE------------------ 
+2015-07-02 11:10:39,978 INFO  [Log] --------------test_GlossaryLink START------------------ 
+2015-07-02 11:10:39,978 INFO  [Log] test_GlossaryLink: Test Glossary 
+2015-07-02 11:10:40,648 INFO  [Log] test_GlossaryLink: Glossary is working fine 
+2015-07-02 11:10:40,713 INFO  [Log] --------------test_GlossaryLink DONE------------------ 
+2015-07-02 11:10:40,713 INFO  [Log] --------------test_HelpLink START------------------ 
+2015-07-02 11:10:40,713 INFO  [Log] test_HelpLink: Test Help button 
+2015-07-02 11:10:41,338 INFO  [Log] test_HelpLink: Help working fine 
+2015-07-02 11:10:41,388 INFO  [Log] --------------test_HelpLink DONE------------------ 
+2015-07-02 11:10:41,478 INFO  [Log] --------------test_Logo START------------------ 
+2015-07-02 11:10:41,478 INFO  [Log] test_Logo: Test Logo 
+2015-07-02 11:10:41,538 INFO  [Log] test_Logo: Logo Present 
+2015-07-02 11:10:41,583 INFO  [Log] --------------test_Logo DONE------------------ 
+2015-07-02 11:10:41,583 INFO  [Log] --------------test_Title START------------------ 
+2015-07-02 11:10:41,583 INFO  [Log] test_Title: Test Title 
+2015-07-02 11:10:41,903 INFO  [Log] test_Title: Title Present: Customer Relationship Management 
+2015-07-02 11:10:41,978 INFO  [Log] --------------test_Title DONE------------------ 
+2015-07-02 11:10:42,018 INFO  [Log] --------------test_NextPageButton START------------------ 
+2015-07-02 11:10:42,018 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-07-02 11:10:42,108 INFO  [Log] test_PreviousPageButton: Element Present 
+2015-07-02 11:10:42,368 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-07-02 11:10:42,668 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-07-02 11:10:42,933 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-07-02 11:10:43,193 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-07-02 11:10:43,423 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-07-02 11:10:43,723 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-07-02 11:10:43,988 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-07-02 11:10:44,248 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-07-02 11:10:44,514 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-07-02 11:10:44,779 INFO  [Log] test_NextPageButton: Clicking Next Button 
+2015-07-02 11:10:45,009 INFO  [Log] --------------test_NextPageButton DONE------------------ 
+2015-07-02 11:10:45,009 INFO  [Log] --------------test_PreviousPageButton START------------------ 
+2015-07-02 11:10:45,159 INFO  [Log] test_PreviousPageButton: Element present 
+2015-07-02 11:10:45,159 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-07-02 11:10:45,439 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-07-02 11:10:45,704 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-07-02 11:10:45,974 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-07-02 11:10:46,249 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-07-02 11:10:46,509 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-07-02 11:10:46,779 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-07-02 11:10:47,039 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-07-02 11:10:47,309 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-07-02 11:10:47,579 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-07-02 11:10:47,849 INFO  [Log] test_PreviousPageButton: Clicking Next Previous Button 
+2015-07-02 11:10:48,069 INFO  [Log] --------------test_PreviousPageButton DONE------------------ 
+2015-07-02 11:10:48,069 INFO  [Log] --------------test_RefreshPageButton START------------------ 
+2015-07-02 11:10:48,444 INFO  [Log] test_RefreshPageButton: Element present 
+2015-07-02 11:10:48,444 INFO  [Log] test_RefreshPageButton: Clicking Refresh Button 
+2015-07-02 11:10:48,689 INFO  [Log] test_RefreshPageButton: Page Refreshed  
+2015-07-02 11:10:48,689 INFO  [Log] --------------test_RefreshPageButton DONE------------------ 
+2015-07-02 11:10:48,714 INFO  [Log] --------------test_CapabilitiesOfCRM START------------------ 
+2015-07-02 11:10:48,714 INFO  [Log] test_CapabilitiesOfCRM: Clicking on Capabilities of CRM button 
+2015-07-02 11:10:48,799 INFO  [Log] Capabilities_of_CRM: Element Present 
+2015-07-02 11:10:49,118 INFO  [Log] ---------------Validating CSS-------------- 
+2015-07-02 11:10:49,173 INFO  [Log] CSS Validation: Color code PASS 
+2015-07-02 11:10:49,223 INFO  [Log] CSS Validation: display PASS 
+2015-07-02 11:10:49,278 INFO  [Log] CSS Validation: font-size PASS 
+2015-07-02 11:10:49,338 INFO  [Log] CSS Validation: height PASS 
+2015-07-02 11:10:49,393 INFO  [Log] CSS Validation: width PASS 
+2015-07-02 11:10:49,448 INFO  [Log] CSS Validation: cursor PASS 
+2015-07-02 11:10:49,503 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-07-02 11:10:49,558 INFO  [Log] CSS Validation: font-family PASS 
+2015-07-02 11:10:49,618 INFO  [Log] CSS Validation: font-style PASS 
+2015-07-02 11:10:49,668 INFO  [Log] CSS Validation: font-weight PASS 
+2015-07-02 11:10:49,668 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-07-02 11:10:49,668 INFO  [Log] test_CapabilitiesOfCRM: Switch Frame 
+2015-07-02 11:10:49,968 INFO  [Log] Clicking on 1st image 
+2015-07-02 11:10:56,185 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 2nd image 
+2015-07-02 11:10:56,700 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 3rd image 
+2015-07-02 11:10:57,200 INFO  [Log] test_CapabilitiesOfCRM: Clicking on 4th image 
+2015-07-02 11:10:57,665 INFO  [Log] test_CapabilitiesOfCRM: Switch to Default Frame 
+2015-07-02 11:10:57,750 INFO  [Log] --------------test_CapabilitiesOfCRM DONE------------------ 
+2015-07-02 11:10:57,750 INFO  [Log] --------------test_FrontEndAndBackendFunctions START------------------ 
+2015-07-02 11:10:57,750 INFO  [Log] test_FrontEndAndBackendFunctions: Clicking on Capabilities of CRM button 
+2015-07-02 11:10:57,830 INFO  [Log] test_FrontEndAndBackendFunctions: Element Present 
+2015-07-02 11:10:58,180 INFO  [Log] ---------------Validating CSS-------------- 
+2015-07-02 11:10:58,205 INFO  [Log] CSS Validation: Color code PASS 
+2015-07-02 11:10:58,280 INFO  [Log] CSS Validation: display PASS 
+2015-07-02 11:10:58,355 INFO  [Log] CSS Validation: font-size PASS 
+2015-07-02 11:10:58,430 INFO  [Log] CSS Validation: height PASS 
+2015-07-02 11:10:58,490 INFO  [Log] CSS Validation: width PASS 
+2015-07-02 11:10:58,545 INFO  [Log] CSS Validation: cursor PASS 
+2015-07-02 11:10:58,620 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-07-02 11:10:58,685 INFO  [Log] CSS Validation: font-family PASS 
+2015-07-02 11:10:58,765 INFO  [Log] CSS Validation: font-style PASS 
+2015-07-02 11:10:58,840 INFO  [Log] CSS Validation: font-weight PASS 
+2015-07-02 11:10:58,840 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-07-02 11:10:58,840 INFO  [Log] test_FrontEndAndBackendFunctions: Switch Frame 
+2015-07-02 11:10:58,945 INFO  [Log] test_FrontEndAndBackendFunctions: Validating image present or not 
+2015-07-02 11:11:02,511 INFO  [Log] test_FrontEndAndBackendFunctions: Validating present 
+2015-07-02 11:11:02,511 INFO  [Log] test_FrontEndAndBackendFunctions: Switch to Default Frame 
+2015-07-02 11:11:02,586 INFO  [Log] --------------test_FrontEndAndBackendFunctions DONE------------------ 
+2015-07-02 11:11:02,591 INFO  [Log] --------------test_PrinciplesOfCRM START------------------ 
+2015-07-02 11:11:02,591 INFO  [Log] test_PrinciplesOfCRM: Clicking on Principles of CRM button 
+2015-07-02 11:11:02,666 INFO  [Log] test_PrinciplesOfCRM: Element Present 
+2015-07-02 11:11:02,736 INFO  [Log] ---------------Validating CSS-------------- 
+2015-07-02 11:11:02,786 INFO  [Log] CSS Validation: Color code FAIL 
+2015-07-02 11:11:02,786 INFO  [Log] CSS Validation: Color code should be #af5200 
+2015-07-02 11:11:02,836 INFO  [Log] CSS Validation: display PASS 
+2015-07-02 11:11:02,886 INFO  [Log] CSS Validation: font-size PASS 
+2015-07-02 11:11:02,966 INFO  [Log] CSS Validation: height PASS 
+2015-07-02 11:11:03,021 INFO  [Log] CSS Validation: width PASS 
+2015-07-02 11:11:03,076 INFO  [Log] CSS Validation: cursor FAIL 
+2015-07-02 11:11:03,076 INFO  [Log] CSS Validation: cursor should be text 
+2015-07-02 11:11:03,126 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-07-02 11:11:03,181 INFO  [Log] CSS Validation: font-family PASS 
+2015-07-02 11:11:03,236 INFO  [Log] CSS Validation: font-style PASS 
+2015-07-02 11:11:03,286 INFO  [Log] CSS Validation: font-weight PASS 
+2015-07-02 11:11:03,286 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-07-02 11:11:03,461 INFO  [Log] test_PrinciplesOfCRM: Switch Frame 
+2015-07-02 11:11:05,456 INFO  [Log] Clicking Img 
+2015-07-02 11:11:05,786 INFO  [Log] test_PrinciplesOfCRM: Click on resized image 
+2015-07-02 11:11:06,322 INFO  [Log] test_PrinciplesOfCRM: Clicking Img 
+2015-07-02 11:11:06,697 INFO  [Log] test_PrinciplesOfCRM: Click on resized image 
+2015-07-02 11:11:07,232 INFO  [Log] test_PrinciplesOfCRM: Switch to Default Frame 
+2015-07-02 11:11:07,337 INFO  [Log] --------------test_PrinciplesOfCRM DONE------------------ 
+2015-07-02 11:11:07,337 INFO  [Log] --------------test_eTOMAssessment1 START------------------ 
+2015-07-02 11:11:07,337 INFO  [Log] test_eTOMAssessment1: Clicking on 1st Assignment 
+2015-07-02 11:11:07,427 INFO  [Log] test_eTOMAssessment1: Element Present 
+2015-07-02 11:11:07,762 INFO  [Log] ---------------Validating CSS-------------- 
+2015-07-02 11:11:07,812 INFO  [Log] CSS Validation: Color code PASS 
+2015-07-02 11:11:07,892 INFO  [Log] CSS Validation: display PASS 
+2015-07-02 11:11:07,972 INFO  [Log] CSS Validation: font-size PASS 
+2015-07-02 11:11:08,052 INFO  [Log] CSS Validation: height PASS 
+2015-07-02 11:11:08,112 INFO  [Log] CSS Validation: width PASS 
+2015-07-02 11:11:08,167 INFO  [Log] CSS Validation: cursor PASS 
+2015-07-02 11:11:08,217 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-07-02 11:11:08,297 INFO  [Log] CSS Validation: font-family PASS 
+2015-07-02 11:11:08,347 INFO  [Log] CSS Validation: font-style PASS 
+2015-07-02 11:11:08,422 INFO  [Log] CSS Validation: font-weight PASS 
+2015-07-02 11:11:08,422 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-07-02 11:11:08,422 INFO  [Log] test_eTOMAssessment1: Switch Frame 
+2015-07-02 11:11:08,497 INFO  [Log] test_eTOMAssessment1: Clicking Submit 
+2015-07-02 11:11:14,343 INFO  [Log] test_eTOMAssessment1: Clicking Retry 
+2015-07-02 11:11:15,348 INFO  [Log] Moving button 
+2015-07-02 11:11:17,519 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-07-02 11:11:17,734 INFO  [Log] Moving button 
+2015-07-02 11:11:19,909 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-07-02 11:11:20,154 INFO  [Log] Moving button 
+2015-07-02 11:11:22,345 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-07-02 11:11:22,590 INFO  [Log] Moving button 
+2015-07-02 11:11:24,750 INFO  [Log] test_eTOMAssessment1: move successfull 
+2015-07-02 11:11:25,040 INFO  [Log] test_eTOMAssessment1: Clicking Submit 
+2015-07-02 11:11:25,225 INFO  [Log] test_eTOMAssessment1: Switch to Default Frame 
+2015-07-02 11:11:26,766 INFO  [Log] --------------test_eTOMAssessment1 DONE------------------ 
+2015-07-02 11:11:26,766 INFO  [Log] --------------test_eTOMAssessment2 START------------------ 
+2015-07-02 11:11:26,766 INFO  [Log] test_eTOMAssessment2: Clicking on 2nd Assignment 
+2015-07-02 11:11:26,851 INFO  [Log] test_eTOMAssessment1: Element Present 
+2015-07-02 11:11:27,126 INFO  [Log] ---------------Validating CSS-------------- 
+2015-07-02 11:11:27,176 INFO  [Log] CSS Validation: Color code PASS 
+2015-07-02 11:11:27,261 INFO  [Log] CSS Validation: display PASS 
+2015-07-02 11:11:27,311 INFO  [Log] CSS Validation: font-size PASS 
+2015-07-02 11:11:27,361 INFO  [Log] CSS Validation: height PASS 
+2015-07-02 11:11:27,391 INFO  [Log] CSS Validation: width PASS 
+2015-07-02 11:11:27,496 INFO  [Log] CSS Validation: cursor PASS 
+2015-07-02 11:11:27,571 INFO  [Log] CSS Validation: text-decoration PASS 
+2015-07-02 11:11:27,646 INFO  [Log] CSS Validation: font-family PASS 
+2015-07-02 11:11:27,706 INFO  [Log] CSS Validation: font-style PASS 
+2015-07-02 11:11:27,756 INFO  [Log] CSS Validation: font-weight PASS 
+2015-07-02 11:11:27,756 INFO  [Log] ---------------CSS Validation Completed -------------- 
+2015-07-02 11:11:27,756 INFO  [Log] test_eTOMAssessment2: Switch Frame 
+2015-07-02 11:11:28,061 INFO  [Log] test_eTOMAssessment2: Option 2 checked 
+2015-07-02 11:11:30,276 INFO  [Log] test_eTOMAssessment2: Option 3 checked 
+2015-07-02 11:11:31,126 INFO  [Log] test_eTOMAssessment2: Option 4 checked 
+2015-07-02 11:11:31,306 INFO  [Log] test_eTOMAssessment2: Option 5 checked 
+2015-07-02 11:11:31,501 INFO  [Log] test_eTOMAssessment2: Option 6 checked 
+2015-07-02 11:11:31,852 INFO  [Log] test_eTOMAssessment2: Option 2 unchecked 
+2015-07-02 11:11:32,022 INFO  [Log] test_eTOMAssessment2: Option 3 unchecked 
+2015-07-02 11:11:32,202 INFO  [Log] test_eTOMAssessment2: Option 3 unchecked 
+2015-07-02 11:11:32,407 INFO  [Log] test_eTOMAssessment2: Option 4 unchecked 
+2015-07-02 11:11:32,612 INFO  [Log] test_eTOMAssessment2: Option 5 unchecked 
+2015-07-02 11:11:32,982 INFO  [Log] test_eTOMAssessment2: Clicking Submit 
+2015-07-02 11:11:33,192 INFO  [Log] test_eTOMAssessment2: Switch to Default Frame 
+2015-07-02 11:11:33,492 INFO  [Log] --------------test_eTOMAssessment2 DONE------------------ 
+2015-07-02 11:11:33,517 INFO  [Log] --------------testHover START------------------ 
+2015-07-02 11:11:33,517 INFO  [Log] testHover: Checking Hover 
+2015-07-02 11:11:33,682 INFO  [Log] testHover: Color of element after hover: #af5200 
+2015-07-02 11:11:34,007 INFO  [Log] --------------testHover DONE------------------ 
+2015-07-02 11:11:34,037 INFO  [Log] --------------test_checkUncheckLeftPanel START------------------ 
+2015-07-02 11:11:34,037 INFO  [Log] getting details of visited, unvisited and current item under Left Panel 
+2015-07-02 11:11:34,217 INFO  [Log] test_checkUncheckLeftPanel: Principles of CRM : item visited result code:  
+2015-07-02 11:11:34,307 INFO  [Log] test_checkUncheckLeftPanel: Capabilities of CRM : item visited result code:  
+2015-07-02 11:11:34,452 INFO  [Log] test_checkUncheckLeftPanel: Front-end and Backend functions : item visited result code:  
+2015-07-02 11:11:34,612 INFO  [Log] test_checkUncheckLeftPanel: eTOM Assessment 1 : item visited result code:  
+2015-07-02 11:11:34,762 INFO  [Log] test_checkUncheckLeftPanel: eTOM Assessment 2 : item selected result code:  
+2015-07-02 11:11:34,892 INFO  [Log] test_checkUncheckLeftPanel: CRM process flow : item visited result code:  
+2015-07-02 11:11:34,977 INFO  [Log] test_checkUncheckLeftPanel: Order Tracking and real-time checks : item visited result code:  
+2015-07-02 11:11:35,147 INFO  [Log] test_checkUncheckLeftPanel: Fulfillment visibility : item visited result code:  
+2015-07-02 11:11:35,257 INFO  [Log] test_checkUncheckLeftPanel: Billing Management : item visited result code:  
+2015-07-02 11:11:35,352 INFO  [Log] test_checkUncheckLeftPanel: Customer Support : item visited result code:  
+2015-07-02 11:11:35,507 INFO  [Log] test_checkUncheckLeftPanel: Role of Workflow : item visited result code:  
+2015-07-02 11:11:35,612 INFO  [Log] test_checkUncheckLeftPanel: CRM products and Market : item visited result code:  
+2015-07-02 11:11:35,662 INFO  [Log] --------------test_checkUncheckLeftPanel DONE------------------ 
+2015-07-02 11:11:35,702 INFO  [Log] Closing the Browser 
+2015-07-02 11:11:39,033 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
